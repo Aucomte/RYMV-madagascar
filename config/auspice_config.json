@@ -1,0 +1,31 @@
+{
+  "title": "Rice yellow mottle virus in Madagascar discrete first submission",
+  "maintainers": [
+    {"name": "Aurore Comte", "mail": "aurore.comte@ird.fr"}
+  ],
+  "colorings": [
+    {
+      "key": "location",
+      "title": "Location",
+      "type": "categorical"
+    },
+    {
+      "key": "strain",
+      "title": "Strain",
+      "type": "categorical"
+    }
+  ],
+  "geo_resolutions": [
+    "location"
+  ],
+  "panels": [
+     "tree",
+     "map"
+  ],
+  "display_defaults": {
+    "color_by" : "location"
+  },
+  "filters": [
+    "region"
+  ]
+}
