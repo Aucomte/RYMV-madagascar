@@ -1,95 +1,95 @@
-strain	latMg	longMg	location	date
-1989Mg1cp.seq	-17.8	48.1	Alaotra-Mangoro	1989
-1991Mg2cp.seq	-16.1	46.8	Boeny	1991
-1991Mg3cp.seq	-18.5	47.3	Analamanga	1991
-1991Mg4cp.seq	-18.5	47.3	Analamanga	1991
-1991Mg5cp.seq	-16.1	46.8	Boeny	1991
-1991Mg6cp.seq	-17.8	48.1	Alaotra-Mangoro	1991
-2003Mg10cp.seq	-15.6	47.6	Sofia	2003
-2003Mg11cp.seq	-16.1	46.6	Boeny	2003
-2003Mg12cp.seq	-16.0	46.6	Boeny	2003
-2003Mg13cp.seq	-14.6	49.7	Sava	2003
-2003Mg14cp.seq	-13.9	50.1	Sava	2003
-2003Mg15cp.seq	-14.4	49.7	Sava	2003
-2003Mg16cp.seq	-16.1	46.8	Boeny	2003
-2003Mg35cp.seq	-16.5	46.8	Boeny	2003
-2003Mg40cp.seq	-15.8	46.4	Boeny	2003
-2003Mg41cp.seq	-15.0	48.0	Sofia	2003
-2003Mg42cp.seq	-16.2	47.7	Sofia	2003
-2003Mg43cp.seq	-15.8	46.8	Boeny	2003
-2003Mg44cp.seq	-16.1	47.6	Sofia	2003
-2003Mg45cp.seq	-16.4	46.7	Boeny	2003
-2003Mg46cp.seq	-15.9	47.3	Sofia	2003
-2003Mg47cp.seq	-15.9	46.6	Boeny	2003
-2003Mg48cp.seq	-15.8	46.9	Boeny	2003
-2003Mg49cp.seq	-15.7	46.6	Boeny	2003
-2003Mg50cp.seq	-14.6	50.0	Sava	2003
-2003Mg51cp.seq	-14.3	49.8	Sava	2003
-2003Mg52cp.seq	-14.2	49.8	Sava	2003
-2003Mg53cp.seq	-14.2	49.6	Sava	2003
-2003Mg54cp.seq	-14.4	49.6	Sava	2003
-2003Mg55cp.seq	-14.4	49.6	Sava	2003
-2003Mg56cp.seq	-13.7	49.9	Sava	2003
-2003Mg57cp.seq	-13.9	49.8	Sava	2003
-2003Mg68cp.seq	-16.2	46.4	Boeny	2003
-2003Mg69cp.seq	-14.2	50.1	Sava	2003
-2003Mg70cp.seq	-13.9	49.8	Sava	2003
-2003Mg71cp.seq	-14.3	50.1	Sava	2003
-2003Mg410cp.seq	-16.1	46.8	Boeny	2003
-2003Mg419cp.seq	-16.1	46.8	Boeny	2003
-2004Mg67cp.seq	-19.6	45.4	Menabe	2004
-2004Mg17cp.seq	-14.9	50.1	Sava	2004
-2004Mg18cp.seq	-14.4	50.1	Sava	2004
-2004Mg19cp.seq	-21.7	43.6	Atsimo-Andrefana 	2004
-2004Mg20cp.seq	-19.6	45.4	Menabe	2004
-2004Mg21cp.seq	-17.9	48.4	Alaotra-Mangoro	2004
-2004Mg22cp.seq	-18.0	48.2	Alaotra-Mangoro	2004
-2004Mg23cp.seq	-21.7	48.1	Vatovavy-Fitovinany 	2004
-2004Mg24cp.seq	-22.2	48.0	Vatovavy-Fitovinany 	2004
-2004Mg25cp.seq	-21.5	47.7	Vatovavy-Fitovinany 	2004
-2004Mg26cp.seq	-21.3	47.7	Vatovavy-Fitovinany 	2004
-2004Mg27cp.seq	-20.4	44.3	Menabe	2004
-2004Mg28cp.seq	-20.5	44.8	Menabe	2004
-2004Mg29cp.seq	-20.0	45.6	Menabe	2004
-2004Mg30cp.seq	-17.9	48.6	Alaotra-Mangoro	2004
-2004Mg31cp.seq	-17.9	48.3	Alaotra-Mangoro	2004
-2004Mg32cp.seq	-21.1	48.2	Vatovavy-Fitovinany 	2004
-2004Mg33cp.seq	-21.3	48.2	Vatovavy-Fitovinany 	2004
-2004Mg34cp.seq	-21.9	47.7	Vatovavy-Fitovinany 	2004
-2004Mg58cp.seq	-17.5	48.5	Alaotra-Mangoro	2004
-2004Mg59cp.seq	-18.0	48.5	Alaotra-Mangoro	2004
-2004Mg60cp.seq	-17.9	48.2	Alaotra-Mangoro	2004
-2004Mg61cp.seq	-17.6	48.1	Alaotra-Mangoro	2004
-2004Mg62cp.seq	-17.8	48.1	Alaotra-Mangoro	2004
-2004Mg63cp.seq	-21.5	48.1	Vatovavy-Fitovinany 	2004
-2004Mg64cp.seq	-21.7	47.7	Vatovavy-Fitovinany 	2004
-2004Mg65cp.seq	-22.4	47.8	Vatovavy-Fitovinany 	2004
-2004Mg66cp.seq	-21.4	47.6	Vatovavy-Fitovinany 	2004
-2008Mg201cp.seq	-15.8	46.8	Boeny	2008
-2008Mg202cp.seq	-16.1	46.8	Boeny	2008
-2010Mg105cp.seq	-16.7	49.6	Analanjirofo	2010
-2010Mg108cp.seq	-17.4	49.3	Analanjirofo	2010
-2010Mg119cp.seq	-12.5	49.3	Diana	2010
-2010Mg123cp.seq	-12.3	49.1	Diana	2010
-2010Mg124cp.seq	-13.1	49.0	Diana	2010
-2010Mg125cp.seq	-13.6	48.7	Diana	2010
-2010Mg126cp.seq	-13.9	48.2	Sofia	2010
-2010Mg127cp.seq	-14.9	47.9	Sofia	2010
-2010Mg128cp.seq	-15.2	47.9	Sofia	2010
-2010Mg147cp.seq	-25.0	46.3	Anosy	2010
-2010Mg150cp.seq	-25.1	46.5	Anosy	2010
-2010Mg155cp.seq	-24.3	45.7	Androy 	2010
-2010Mg163cp.seq	-23.7	45.8	Anosy	2010
-2010Mg165cp.seq	-16.9	47.0	Betsiboka	2010
-2010Mg210cp.seq	-16.1	46.8	Boeny	2010
-2014Mg301cp.seq	-18.5	47.3	Analamanga	2014
-2014Mg302cp.seq	-18.5	47.3	Analamanga	2014
-2014Mg303cp.seq	-18.5	47.3	Analamanga	2014
-2014Mg304cp.seq	-18.5	47.3	Analamanga	2014
-2014Mg341cp.seq	-18.5	47.3	Analamanga	2014
-2014Mg342cp.seq	-18.5	47.3	Analamanga	2014
-2014Mg343cp.seq	-18.5	47.3	Analamanga	2014
-2014Mg344cp.seq	-18.5	47.3	Analamanga	2014
-2017Mg401cp.seq	-16.1	46.6	Boeny	2017
-2017Mg402cp.seq	-16.1	46.6	Boeny	2017
-2017Mg403cp.seq	-16.1	46.6	Boeny	2017
+strain	latMg	longMg	region	location	date
+1989Mg1cp.seq	-17.8	48.1	Alaotra-Mangoro	Alaotra-Mangoro	1989
+1991Mg2cp.seq	-16.1	46.8	Boeny	Boeny	1991
+1991Mg3cp.seq	-18.5	47.3	Analamanga	Analamanga	1991
+1991Mg4cp.seq	-18.5	47.3	Analamanga	Analamanga	1991
+1991Mg5cp.seq	-16.1	46.8	Boeny	Boeny	1991
+1991Mg6cp.seq	-17.8	48.1	Alaotra-Mangoro	Alaotra-Mangoro	1991
+2003Mg10cp.seq	-15.6	47.6	Sofia	Sofia	2003
+2003Mg11cp.seq	-16.1	46.6	Boeny	Boeny	2003
+2003Mg12cp.seq	-16.0	46.6	Boeny	Boeny	2003
+2003Mg13cp.seq	-14.6	49.7	Sava	Sava	2003
+2003Mg14cp.seq	-13.9	50.1	Sava	Sava	2003
+2003Mg15cp.seq	-14.4	49.7	Sava	Sava	2003
+2003Mg16cp.seq	-16.1	46.8	Boeny	Boeny	2003
+2003Mg35cp.seq	-16.5	46.8	Boeny	Boeny	2003
+2003Mg40cp.seq	-15.8	46.4	Boeny	Boeny	2003
+2003Mg41cp.seq	-15.0	48.0	Sofia	Sofia	2003
+2003Mg42cp.seq	-16.2	47.7	Sofia	Sofia	2003
+2003Mg43cp.seq	-15.8	46.8	Boeny	Boeny	2003
+2003Mg44cp.seq	-16.1	47.6	Sofia	Sofia	2003
+2003Mg45cp.seq	-16.4	46.7	Boeny	Boeny	2003
+2003Mg46cp.seq	-15.9	47.3	Sofia	Sofia	2003
+2003Mg47cp.seq	-15.9	46.6	Boeny	Boeny	2003
+2003Mg48cp.seq	-15.8	46.9	Boeny	Boeny	2003
+2003Mg49cp.seq	-15.7	46.6	Boeny	Boeny	2003
+2003Mg50cp.seq	-14.6	50.0	Sava	Sava	2003
+2003Mg51cp.seq	-14.3	49.8	Sava	Sava	2003
+2003Mg52cp.seq	-14.2	49.8	Sava	Sava	2003
+2003Mg53cp.seq	-14.2	49.6	Sava	Sava	2003
+2003Mg54cp.seq	-14.4	49.6	Sava	Sava	2003
+2003Mg55cp.seq	-14.4	49.6	Sava	Sava	2003
+2003Mg56cp.seq	-13.7	49.9	Sava	Sava	2003
+2003Mg57cp.seq	-13.9	49.8	Sava	Sava	2003
+2003Mg68cp.seq	-16.2	46.4	Boeny	Boeny	2003
+2003Mg69cp.seq	-14.2	50.1	Sava	Sava	2003
+2003Mg70cp.seq	-13.9	49.8	Sava	Sava	2003
+2003Mg71cp.seq	-14.3	50.1	Sava	Sava	2003
+2003Mg410cp.seq	-16.1	46.8	Boeny	Boeny	2003
+2003Mg419cp.seq	-16.1	46.8	Boeny	Boeny	2003
+2004Mg67cp.seq	-19.6	45.4	Menabe	Menabe	2004
+2004Mg17cp.seq	-14.9	50.1	Sava	Sava	2004
+2004Mg18cp.seq	-14.4	50.1	Sava	Sava	2004
+2004Mg19cp.seq	-21.7	43.6	Atsimo-Andrefana	Atsimo-Andrefana	2004
+2004Mg20cp.seq	-19.6	45.4	Menabe	Menabe	2004
+2004Mg21cp.seq	-17.9	48.4	Alaotra-Mangoro	Alaotra-Mangoro	2004
+2004Mg22cp.seq	-18.0	48.2	Alaotra-Mangoro	Alaotra-Mangoro	2004
+2004Mg23cp.seq	-21.7	48.1	Vatovavy-Fitovinany	Vatovavy-Fitovinany	2004
+2004Mg24cp.seq	-22.2	48.0	Vatovavy-Fitovinany	Vatovavy-Fitovinany	2004
+2004Mg25cp.seq	-21.5	47.7	Vatovavy-Fitovinany	Vatovavy-Fitovinany	2004
+2004Mg26cp.seq	-21.3	47.7	Vatovavy-Fitovinany	Vatovavy-Fitovinany	2004
+2004Mg27cp.seq	-20.4	44.3	Menabe	Menabe	2004
+2004Mg28cp.seq	-20.5	44.8	Menabe	Menabe	2004
+2004Mg29cp.seq	-20.0	45.6	Menabe	Menabe	2004
+2004Mg30cp.seq	-17.9	48.6	Alaotra-Mangoro	Alaotra-Mangoro	2004
+2004Mg31cp.seq	-17.9	48.3	Alaotra-Mangoro	Alaotra-Mangoro	2004
+2004Mg32cp.seq	-21.1	48.2	Vatovavy-Fitovinany	Vatovavy-Fitovinany	2004
+2004Mg33cp.seq	-21.3	48.2	Vatovavy-Fitovinany	Vatovavy-Fitovinany	2004
+2004Mg34cp.seq	-21.9	47.7	Vatovavy-Fitovinany	Vatovavy-Fitovinany	2004
+2004Mg58cp.seq	-17.5	48.5	Alaotra-Mangoro	Alaotra-Mangoro	2004
+2004Mg59cp.seq	-18.0	48.5	Alaotra-Mangoro	Alaotra-Mangoro	2004
+2004Mg60cp.seq	-17.9	48.2	Alaotra-Mangoro	Alaotra-Mangoro	2004
+2004Mg61cp.seq	-17.6	48.1	Alaotra-Mangoro	Alaotra-Mangoro	2004
+2004Mg62cp.seq	-17.8	48.1	Alaotra-Mangoro	Alaotra-Mangoro	2004
+2004Mg63cp.seq	-21.5	48.1	Vatovavy-Fitovinany	Vatovavy-Fitovinany	2004
+2004Mg64cp.seq	-21.7	47.7	Vatovavy-Fitovinany	Vatovavy-Fitovinany	2004
+2004Mg65cp.seq	-22.4	47.8	Vatovavy-Fitovinany	Vatovavy-Fitovinany	2004
+2004Mg66cp.seq	-21.4	47.6	Vatovavy-Fitovinany	Vatovavy-Fitovinany	2004
+2008Mg201cp.seq	-15.8	46.8	Boeny	Boeny	2008
+2008Mg202cp.seq	-16.1	46.8	Boeny	Boeny	2008
+2010Mg105cp.seq	-16.7	49.6	Analanjirofo	Analanjirofo	2010
+2010Mg108cp.seq	-17.4	49.3	Analanjirofo	Analanjirofo	2010
+2010Mg119cp.seq	-12.5	49.3	Diana	Diana	2010
+2010Mg123cp.seq	-12.3	49.1	Diana	Diana	2010
+2010Mg124cp.seq	-13.1	49.0	Diana	Diana	2010
+2010Mg125cp.seq	-13.6	48.7	Diana	Diana	2010
+2010Mg126cp.seq	-13.9	48.2	Sofia	Sofia	2010
+2010Mg127cp.seq	-14.9	47.9	Sofia	Sofia	2010
+2010Mg128cp.seq	-15.2	47.9	Sofia	Sofia	2010
+2010Mg147cp.seq	-25.0	46.3	Anosy	Anosy	2010
+2010Mg150cp.seq	-25.1	46.5	Anosy	Anosy	2010
+2010Mg155cp.seq	-24.3	45.7	Androy	Androy	2010
+2010Mg163cp.seq	-23.7	45.8	Anosy	Anosy	2010
+2010Mg165cp.seq	-16.9	47.0	Betsiboka	Betsiboka	2010
+2010Mg210cp.seq	-16.1	46.8	Boeny	Boeny	2010
+2014Mg301cp.seq	-18.5	47.3	Analamanga	Analamanga	2014
+2014Mg302cp.seq	-18.5	47.3	Analamanga	Analamanga	2014
+2014Mg303cp.seq	-18.5	47.3	Analamanga	Analamanga	2014
+2014Mg304cp.seq	-18.5	47.3	Analamanga	Analamanga	2014
+2014Mg341cp.seq	-18.5	47.3	Analamanga	Analamanga	2014
+2014Mg342cp.seq	-18.5	47.3	Analamanga	Analamanga	2014
+2014Mg343cp.seq	-18.5	47.3	Analamanga	Analamanga	2014
+2014Mg344cp.seq	-18.5	47.3	Analamanga	Analamanga	2014
+2017Mg401cp.seq	-16.1	46.6	Boeny	Boeny	2017
+2017Mg402cp.seq	-16.1	46.6	Boeny	Boeny	2017
+2017Mg403cp.seq	-16.1	46.6	Boeny	Boeny	2017

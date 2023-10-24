@@ -4,7 +4,7 @@
     "program": "augur",
     "version": "23.0.0"
   },
-  "mcc_file": "data/Mg94_discrete_mcct",
+  "mcc_file": "Mg94_discrete_mcct",
   "nodes": {
     "1989Mg1cp.seq": {
       "clock_length": 0.37189110298136896,
