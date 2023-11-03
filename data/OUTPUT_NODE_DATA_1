@@ -1,0 +1,4599 @@
+{
+  "comment": "Imported from a BEAST MCC tree using `augur import beast`",
+  "generated_by": {
+    "program": "augur",
+    "version": "23.0.0"
+  },
+  "mcc_file": "../dataMada3/Mg94_discrete_1_mcct",
+  "nodes": {
+    "1989Mg1cp.seq": {
+      "clock_length": 0.7835646011542501,
+      "default.rate": 0.0013516545232413466,
+      "default.rate_confidence": [
+        2.58211805801372e-05,
+        0.003904878581221482
+      ],
+      "default.rate_median": 0.0008739127601912987,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 1989.0,
+      "posterior": 1.0
+    },
+    "1991Mg2cp.seq": {
+      "clock_length": 2.82472802778355,
+      "default.rate": 0.00507524340273475,
+      "default.rate_confidence": [
+        0.0002669234620441308,
+        0.013995330267972254
+      ],
+      "default.rate_median": 0.0036159285303879727,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 1991.0,
+      "posterior": 1.0
+    },
+    "1991Mg3cp.seq": {
+      "clock_length": 0.3233370463619707,
+      "default.rate": 0.00150079526484273,
+      "default.rate_confidence": [
+        3.0819572220517915e-05,
+        0.004464125265434489
+      ],
+      "default.rate_median": 0.0009861855500578809,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 1991.0,
+      "posterior": 1.0
+    },
+    "1991Mg4cp.seq": {
+      "clock_length": 0.3233370463619707,
+      "default.rate": 0.0014923517018491708,
+      "default.rate_confidence": [
+        3.42869726963502e-05,
+        0.0043892915218437635
+      ],
+      "default.rate_median": 0.0009251223701302672,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 1991.0,
+      "posterior": 1.0
+    },
+    "1991Mg5cp.seq": {
+      "clock_length": 2.82472802778355,
+      "default.rate": 0.0008425512947290077,
+      "default.rate_confidence": [
+        1.9240849836368563e-05,
+        0.002404075341373142
+      ],
+      "default.rate_median": 0.000580004154906283,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 1991.0,
+      "posterior": 1.0
+    },
+    "1991Mg6cp.seq": {
+      "clock_length": 1.0244744614864985,
+      "default.rate": 0.0010393044607411555,
+      "default.rate_confidence": [
+        3.752191327839935e-05,
+        0.003052600360257838
+      ],
+      "default.rate_median": 0.0006785366217609021,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 1991.0,
+      "posterior": 1.0
+    },
+    "2003Mg10cp.seq": {
+      "clock_length": 1.5558515003719045,
+      "default.rate": 0.005817575429044253,
+      "default.rate_confidence": [
+        0.0004952391288110513,
+        0.015042011124886694
+      ],
+      "default.rate_median": 0.004282691251402174,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg11cp.seq": {
+      "clock_length": 2.11427657111917,
+      "default.rate": 0.0031921678428085635,
+      "default.rate_confidence": [
+        0.0002321805702659008,
+        0.009280345150936365
+      ],
+      "default.rate_median": 0.002159593297385656,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg12cp.seq": {
+      "clock_length": 0.5932943531235999,
+      "default.rate": 0.0013204173450369202,
+      "default.rate_confidence": [
+        2.4467330191257987e-05,
+        0.0037279074307357825
+      ],
+      "default.rate_median": 0.0008822963432405995,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg13cp.seq": {
+      "clock_length": 0.49336325860767616,
+      "default.rate": 0.0017144047775261833,
+      "default.rate_confidence": [
+        3.587238543727411e-05,
+        0.005470775990091542
+      ],
+      "default.rate_median": 0.0010637517937104495,
+      "location": "B",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg14cp.seq": {
+      "clock_length": 0.26132532010900356,
+      "default.rate": 0.0016707580175768925,
+      "default.rate_confidence": [
+        6.649651319508953e-05,
+        0.0050336373124203965
+      ],
+      "default.rate_median": 0.001024641534367093,
+      "location": "B",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg15cp.seq": {
+      "clock_length": 0.808661325257356,
+      "default.rate": 0.0016457297685530553,
+      "default.rate_confidence": [
+        4.040400802839323e-05,
+        0.004902607113558151
+      ],
+      "default.rate_median": 0.001051469799969285,
+      "location": "B",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg16cp.seq": {
+      "clock_length": 2.3680651405907867,
+      "default.rate": 0.004854741512815383,
+      "default.rate_confidence": [
+        0.0003580465962915095,
+        0.013616336181476172
+      ],
+      "default.rate_median": 0.0034485681074183654,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg35cp.seq": {
+      "clock_length": 1.0444343228798552,
+      "default.rate": 0.0011043576658017308,
+      "default.rate_confidence": [
+        3.71021107333637e-05,
+        0.003241419788844161
+      ],
+      "default.rate_median": 0.0007732939370733147,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg40cp.seq": {
+      "clock_length": 1.0444343228798552,
+      "default.rate": 0.00459567129625848,
+      "default.rate_confidence": [
+        0.00025271621901815035,
+        0.012795866140735693
+      ],
+      "default.rate_median": 0.0033159398657002944,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg410cp.seq": {
+      "clock_length": 2.0129156920514824,
+      "default.rate": 0.00467858466746285,
+      "default.rate_confidence": [
+        0.000585600185942885,
+        0.011181308947525479
+      ],
+      "default.rate_median": 0.0036667007056969047,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg419cp.seq": {
+      "clock_length": 2.0129156920514824,
+      "default.rate": 0.008988080969823481,
+      "default.rate_confidence": [
+        0.0009802985129659133,
+        0.02147915892393818
+      ],
+      "default.rate_median": 0.006913091411097525,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg41cp.seq": {
+      "clock_length": 0.913973036340991,
+      "default.rate": 0.005723989563388674,
+      "default.rate_confidence": [
+        0.000530821756217428,
+        0.014745138161202464
+      ],
+      "default.rate_median": 0.004232630668920136,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg42cp.seq": {
+      "clock_length": 0.9264614763609345,
+      "default.rate": 0.0019568371463693523,
+      "default.rate_confidence": [
+        0.00010517109115609408,
+        0.005579374215849799
+      ],
+      "default.rate_median": 0.0013956675792718227,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg43cp.seq": {
+      "clock_length": 0.9264614763609345,
+      "default.rate": 0.0030979818972564563,
+      "default.rate_confidence": [
+        0.00017519986881675418,
+        0.008343462298340671
+      ],
+      "default.rate_median": 0.0022517159245869045,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg44cp.seq": {
+      "clock_length": 1.1205905484643566,
+      "default.rate": 0.002239746387416625,
+      "default.rate_confidence": [
+        9.196617342680884e-05,
+        0.006488839085745565
+      ],
+      "default.rate_median": 0.0015236206724407036,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg45cp.seq": {
+      "clock_length": 1.1205905484643566,
+      "default.rate": 0.004098388212630401,
+      "default.rate_confidence": [
+        0.00014902369598582136,
+        0.011087255467026432
+      ],
+      "default.rate_median": 0.002868857043963079,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg46cp.seq": {
+      "clock_length": 0.42605711307468397,
+      "default.rate": 0.002465642968596448,
+      "default.rate_confidence": [
+        3.622907402603925e-05,
+        0.007355542420093074
+      ],
+      "default.rate_median": 0.0014332714154909343,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg47cp.seq": {
+      "clock_length": 0.5932943531235999,
+      "default.rate": 0.004368956642998613,
+      "default.rate_confidence": [
+        0.00014078074015552987,
+        0.01298817549038052
+      ],
+      "default.rate_median": 0.00295952934780177,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg48cp.seq": {
+      "clock_length": 1.4741639540012912,
+      "default.rate": 0.002981874770892397,
+      "default.rate_confidence": [
+        0.00023545750632140392,
+        0.007676559494642135
+      ],
+      "default.rate_median": 0.0021978012872181634,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg49cp.seq": {
+      "clock_length": 0.913973036340991,
+      "default.rate": 0.001129399709434302,
+      "default.rate_confidence": [
+        2.3055709788734917e-05,
+        0.003120347041729708
+      ],
+      "default.rate_median": 0.0007792493076564036,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg50cp.seq": {
+      "clock_length": 1.0176799863550556,
+      "default.rate": 0.0028831186470224795,
+      "default.rate_confidence": [
+        0.0002525322485185776,
+        0.007514724189379784
+      ],
+      "default.rate_median": 0.0021295933354747447,
+      "location": "B",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg51cp.seq": {
+      "clock_length": 0.26132532010900356,
+      "default.rate": 0.0016230814158045318,
+      "default.rate_confidence": [
+        3.06850000722356e-05,
+        0.005182769084259351
+      ],
+      "default.rate_median": 0.0009686997688348006,
+      "location": "B",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg52cp.seq": {
+      "clock_length": 1.6214260349091205,
+      "default.rate": 0.0037651903753553075,
+      "default.rate_confidence": [
+        0.00032834494041663606,
+        0.009878506524506723
+      ],
+      "default.rate_median": 0.002872751310881252,
+      "location": "B",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg53cp.seq": {
+      "clock_length": 1.579088681363869,
+      "default.rate": 0.006599427389625125,
+      "default.rate_confidence": [
+        0.0006932726044443471,
+        0.016518441096722115
+      ],
+      "default.rate_median": 0.004954886725527455,
+      "location": "B",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg54cp.seq": {
+      "clock_length": 0.9235456859522202,
+      "default.rate": 0.005385984771553229,
+      "default.rate_confidence": [
+        0.00024010928208332462,
+        0.013908098987884612
+      ],
+      "default.rate_median": 0.0038759338068101654,
+      "location": "B",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg55cp.seq": {
+      "clock_length": 0.9235456859522202,
+      "default.rate": 0.002104616475454669,
+      "default.rate_confidence": [
+        4.4411555363741627e-05,
+        0.006036351373030205
+      ],
+      "default.rate_median": 0.0014897768446769705,
+      "location": "B",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg56cp.seq": {
+      "clock_length": 2.214164593450896,
+      "default.rate": 0.0013642558087066602,
+      "default.rate_confidence": [
+        0.0001031751367185703,
+        0.0036887125189135365
+      ],
+      "default.rate_median": 0.0009866852659960797,
+      "location": "B",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg57cp.seq": {
+      "clock_length": 1.6214260349091205,
+      "default.rate": 0.0021033553925735447,
+      "default.rate_confidence": [
+        0.00017764475580744622,
+        0.005303928435020479
+      ],
+      "default.rate_median": 0.0016206640478349588,
+      "location": "B",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg68cp.seq": {
+      "clock_length": 7.207752149769799,
+      "default.rate": 0.001247008389626085,
+      "default.rate_confidence": [
+        3.993857678783754e-05,
+        0.0037174754342604523
+      ],
+      "default.rate_median": 0.0007935513091853657,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg69cp.seq": {
+      "clock_length": 1.0176799863550556,
+      "default.rate": 0.00288672158526228,
+      "default.rate_confidence": [
+        0.000197551081088108,
+        0.007621890016570191
+      ],
+      "default.rate_median": 0.0021635925104561003,
+      "location": "B",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg70cp.seq": {
+      "clock_length": 0.16457481180447076,
+      "default.rate": 0.0016923027376511172,
+      "default.rate_confidence": [
+        4.596987803095863e-05,
+        0.005148414065580116
+      ],
+      "default.rate_median": 0.001047981094281725,
+      "location": "B",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2003Mg71cp.seq": {
+      "clock_length": 0.16457481180447076,
+      "default.rate": 0.0016165753189246166,
+      "default.rate_confidence": [
+        5.100314286762643e-05,
+        0.004925646540615233
+      ],
+      "default.rate_median": 0.0010280611098233403,
+      "location": "B",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.0,
+      "posterior": 1.0
+    },
+    "2004Mg17cp.seq": {
+      "clock_length": 2.374927418028417,
+      "default.rate": 0.0024124820307937227,
+      "default.rate_confidence": [
+        0.00023641967187490212,
+        0.006605268799703447
+      ],
+      "default.rate_median": 0.0017188690348508909,
+      "location": "B",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg18cp.seq": {
+      "clock_length": 1.9637735615226788,
+      "default.rate": 0.006097486680269782,
+      "default.rate_confidence": [
+        0.0006394608261263192,
+        0.014779639672599874
+      ],
+      "default.rate_median": 0.0048679998141931465,
+      "location": "B",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg19cp.seq": {
+      "clock_length": 0.1996764869382801,
+      "default.rate": 0.0017679749151581345,
+      "default.rate_confidence": [
+        1.7064432193916768e-05,
+        0.005447448972643268
+      ],
+      "default.rate_median": 0.0010397122170906377,
+      "location": "G",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "G": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg20cp.seq": {
+      "clock_length": 0.5607882588010078,
+      "default.rate": 0.0014641876818013084,
+      "default.rate_confidence": [
+        3.890795946771555e-05,
+        0.004576549569862654
+      ],
+      "default.rate_median": 0.0009415426166150535,
+      "location": "G",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "G": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg21cp.seq": {
+      "clock_length": 2.122502347451846,
+      "default.rate": 0.003063713788452119,
+      "default.rate_confidence": [
+        0.00016346446125749373,
+        0.009331282424363102
+      ],
+      "default.rate_median": 0.002044568985849075,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg22cp.seq": {
+      "clock_length": 1.034208446903964,
+      "default.rate": 0.0014078494518801855,
+      "default.rate_confidence": [
+        3.145596135555827e-05,
+        0.004451585823150289
+      ],
+      "default.rate_median": 0.0009435833401672311,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg23cp.seq": {
+      "clock_length": 0.1573763132354813,
+      "default.rate": 0.0017440969056374503,
+      "default.rate_confidence": [
+        3.862658989754666e-05,
+        0.0056517105875342035
+      ],
+      "default.rate_median": 0.0010671816198247707,
+      "location": "H",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "H": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg24cp.seq": {
+      "clock_length": 1.4579388045150097,
+      "default.rate": 0.0017069022617216731,
+      "default.rate_confidence": [
+        8.46748114063507e-05,
+        0.004595737486158688
+      ],
+      "default.rate_median": 0.0012232055409474093,
+      "location": "H",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "H": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg25cp.seq": {
+      "clock_length": 0.28438355368050594,
+      "default.rate": 0.00159356962152695,
+      "default.rate_confidence": [
+        3.125638423505803e-05,
+        0.004744309589132078
+      ],
+      "default.rate_median": 0.0010130060486875704,
+      "location": "H",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "H": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg26cp.seq": {
+      "clock_length": 0.28438355368050594,
+      "default.rate": 0.0032890567350414403,
+      "default.rate_confidence": [
+        4.016331035277707e-05,
+        0.009596834864543538
+      ],
+      "default.rate_median": 0.0022098068134294734,
+      "location": "H",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "H": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg27cp.seq": {
+      "clock_length": 0.1996764869382801,
+      "default.rate": 0.0016731076192112052,
+      "default.rate_confidence": [
+        4.596987803095863e-05,
+        0.005214525757365732
+      ],
+      "default.rate_median": 0.0010714653441895971,
+      "location": "G",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "G": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg28cp.seq": {
+      "clock_length": 1.6479471445701463,
+      "default.rate": 0.003311323772737775,
+      "default.rate_confidence": [
+        0.00031507917882972524,
+        0.008461929851475916
+      ],
+      "default.rate_median": 0.0025738747618401386,
+      "location": "G",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "G": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg29cp.seq": {
+      "clock_length": 12.036679655127564,
+      "default.rate": 0.0031298820993499363,
+      "default.rate_confidence": [
+        6.904024574046569e-05,
+        0.009728588017062959
+      ],
+      "default.rate_median": 0.0018478916232318936,
+      "location": "G",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "G": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg30cp.seq": {
+      "clock_length": 2.122502347451846,
+      "default.rate": 0.0023325345769153946,
+      "default.rate_confidence": [
+        8.883750690462196e-05,
+        0.007006105136987875
+      ],
+      "default.rate_median": 0.0014875527212432347,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg31cp.seq": {
+      "clock_length": 16.183452667786778,
+      "default.rate": 0.001233091962449443,
+      "default.rate_confidence": [
+        8.183594972982863e-05,
+        0.0037011560209699442
+      ],
+      "default.rate_median": 0.0007138743322913142,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg32cp.seq": {
+      "clock_length": 0.7938822684051132,
+      "default.rate": 0.0012382877539852343,
+      "default.rate_confidence": [
+        1.7401713055619177e-05,
+        0.0035823898151754003
+      ],
+      "default.rate_median": 0.0008434451230812111,
+      "location": "H",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "H": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg33cp.seq": {
+      "clock_length": 0.1573763132354813,
+      "default.rate": 0.0018581115000296119,
+      "default.rate_confidence": [
+        3.3084226921779677e-05,
+        0.005927063032821105
+      ],
+      "default.rate_median": 0.0011595681566476995,
+      "location": "H",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "H": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg34cp.seq": {
+      "clock_length": 1.4579388045150097,
+      "default.rate": 0.0051770575429042264,
+      "default.rate_confidence": [
+        0.0004113085741634261,
+        0.013095676543780198
+      ],
+      "default.rate_median": 0.003931597369147948,
+      "location": "H",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "H": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg58cp.seq": {
+      "clock_length": 3.9517017777490153,
+      "default.rate": 0.001686459778510819,
+      "default.rate_confidence": [
+        9.974942460396619e-05,
+        0.00464804039309382
+      ],
+      "default.rate_median": 0.0011638714697803571,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg59cp.seq": {
+      "clock_length": 3.5053410223360864,
+      "default.rate": 0.004022794626347621,
+      "default.rate_confidence": [
+        0.0005459652209924795,
+        0.011558932448058421
+      ],
+      "default.rate_median": 0.0027897031530886487,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg60cp.seq": {
+      "clock_length": 0.5780228909009733,
+      "default.rate": 0.001457509644624571,
+      "default.rate_confidence": [
+        3.16110514714445e-05,
+        0.004416108220165712
+      ],
+      "default.rate_median": 0.0009251223701302672,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg61cp.seq": {
+      "clock_length": 0.16606587827232389,
+      "default.rate": 0.0017684104913527929,
+      "default.rate_confidence": [
+        3.26316106121308e-05,
+        0.005492578434431566
+      ],
+      "default.rate_median": 0.0010814322305439325,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg62cp.seq": {
+      "clock_length": 0.16606587827232389,
+      "default.rate": 0.0017498054394701145,
+      "default.rate_confidence": [
+        4.7958446845499164e-05,
+        0.005286464671908146
+      ],
+      "default.rate_median": 0.0010765622541387924,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg63cp.seq": {
+      "clock_length": 1.6898512267142713,
+      "default.rate": 0.0018326643638870664,
+      "default.rate_confidence": [
+        6.0490488387647644e-05,
+        0.00505017942340643
+      ],
+      "default.rate_median": 0.001331772056845226,
+      "location": "H",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "H": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg64cp.seq": {
+      "clock_length": 3.5053410223360864,
+      "default.rate": 0.0015799294772490563,
+      "default.rate_confidence": [
+        0.00010721795440166206,
+        0.004190502320968134
+      ],
+      "default.rate_median": 0.0011847990284130838,
+      "location": "H",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "H": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg65cp.seq": {
+      "clock_length": 2.4976247787780963,
+      "default.rate": 0.006604319505216683,
+      "default.rate_confidence": [
+        0.0007238413624369588,
+        0.017330796367358247
+      ],
+      "default.rate_median": 0.0049742946717900175,
+      "location": "H",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "H": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg66cp.seq": {
+      "clock_length": 0.7197245780388322,
+      "default.rate": 0.0017925491737440739,
+      "default.rate_confidence": [
+        3.543089971486419e-05,
+        0.005167092055562086
+      ],
+      "default.rate_median": 0.0011046014115375982,
+      "location": "H",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "H": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2004Mg67cp.seq": {
+      "clock_length": 0.5607882588010078,
+      "default.rate": 0.0025366269022662393,
+      "default.rate_confidence": [
+        4.104115401889582e-05,
+        0.007644446932731237
+      ],
+      "default.rate_median": 0.0016809845244016043,
+      "location": "G",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "G": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2004.0,
+      "posterior": 1.0
+    },
+    "2008Mg201cp.seq": {
+      "clock_length": 1.6998770679235875,
+      "default.rate": 0.0014701488029056921,
+      "default.rate_confidence": [
+        0.0001003590462736056,
+        0.0039745359233224024
+      ],
+      "default.rate_median": 0.00108083762793279,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2008.0,
+      "posterior": 1.0
+    },
+    "2008Mg202cp.seq": {
+      "clock_length": 1.6998770679235875,
+      "default.rate": 0.004519236134766787,
+      "default.rate_confidence": [
+        0.00037743009133379854,
+        0.012055981535625286
+      ],
+      "default.rate_median": 0.0033491613140150265,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2008.0,
+      "posterior": 1.0
+    },
+    "2010Mg105cp.seq": {
+      "clock_length": 2.893528095622102,
+      "default.rate": 0.002698314430628481,
+      "default.rate_confidence": [
+        0.00038490130882277133,
+        0.00682155818977901
+      ],
+      "default.rate_median": 0.00213439471647968,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2010.0,
+      "posterior": 1.0
+    },
+    "2010Mg108cp.seq": {
+      "clock_length": 2.893528095622102,
+      "default.rate": 0.0027533263661885968,
+      "default.rate_confidence": [
+        0.00037999885211985747,
+        0.006565311486154649
+      ],
+      "default.rate_median": 0.0021948740359507154,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2010.0,
+      "posterior": 1.0
+    },
+    "2010Mg119cp.seq": {
+      "clock_length": 2.8857894258477756,
+      "default.rate": 0.0031465935656276043,
+      "default.rate_confidence": [
+        0.00042902771209349204,
+        0.0077048827459103505
+      ],
+      "default.rate_median": 0.002492860652947459,
+      "location": "A",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "A": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2010.0,
+      "posterior": 1.0
+    },
+    "2010Mg123cp.seq": {
+      "clock_length": 3.4215190903573856,
+      "default.rate": 0.002965150645144797,
+      "default.rate_confidence": [
+        0.0004031477763426389,
+        0.0064113946585834
+      ],
+      "default.rate_median": 0.0025128111181465843,
+      "location": "A",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "A": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2010.0,
+      "posterior": 1.0
+    },
+    "2010Mg124cp.seq": {
+      "clock_length": 10.219561084214742,
+      "default.rate": 0.0013538091712339084,
+      "default.rate_confidence": [
+        0.00014507375532023681,
+        0.003963439446156668
+      ],
+      "default.rate_median": 0.0009503571960348444,
+      "location": "A",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "A": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2010.0,
+      "posterior": 1.0
+    },
+    "2010Mg125cp.seq": {
+      "clock_length": 6.401541776515636,
+      "default.rate": 0.004547336816422114,
+      "default.rate_confidence": [
+        0.0007079506153719579,
+        0.011734524601888481
+      ],
+      "default.rate_median": 0.0034306753373056133,
+      "location": "A",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "A": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2010.0,
+      "posterior": 1.0
+    },
+    "2010Mg126cp.seq": {
+      "clock_length": 2.864798577449678,
+      "default.rate": 0.001780102200445067,
+      "default.rate_confidence": [
+        0.00016685695925143897,
+        0.00480753073854563
+      ],
+      "default.rate_median": 0.0013455743209828423,
+      "location": "A",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "A": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2010.0,
+      "posterior": 1.0
+    },
+    "2010Mg127cp.seq": {
+      "clock_length": 3.4215190903573856,
+      "default.rate": 0.00667617063714706,
+      "default.rate_confidence": [
+        0.0014477018016919813,
+        0.015327207462449631
+      ],
+      "default.rate_median": 0.005459869032661273,
+      "location": "C",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "C": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2010.0,
+      "posterior": 1.0
+    },
+    "2010Mg128cp.seq": {
+      "clock_length": 2.864798577449678,
+      "default.rate": 0.0021132326735506,
+      "default.rate_confidence": [
+        0.00018252229803709436,
+        0.0050250486392080474
+      ],
+      "default.rate_median": 0.0016320303878325493,
+      "location": "C",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "C": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2010.0,
+      "posterior": 1.0
+    },
+    "2010Mg147cp.seq": {
+      "clock_length": 3.8748873253449183,
+      "default.rate": 0.0032608361829538205,
+      "default.rate_confidence": [
+        0.00035248119928913096,
+        0.008172036270984928
+      ],
+      "default.rate_median": 0.002440596175820386,
+      "location": "I",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "I": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2010.0,
+      "posterior": 1.0
+    },
+    "2010Mg150cp.seq": {
+      "clock_length": 2.1640850560854474,
+      "default.rate": 0.001975866088611236,
+      "default.rate_confidence": [
+        0.0002568072181985331,
+        0.0051174255835112785
+      ],
+      "default.rate_median": 0.0014363324133897972,
+      "location": "I",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "I": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2010.0,
+      "posterior": 1.0
+    },
+    "2010Mg155cp.seq": {
+      "clock_length": 5.190082349120743,
+      "default.rate": 0.0013549321731849244,
+      "default.rate_confidence": [
+        0.0001456901694213961,
+        0.0031267889548591736
+      ],
+      "default.rate_median": 0.0010936135286084177,
+      "location": "I",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "I": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2010.0,
+      "posterior": 1.0
+    },
+    "2010Mg163cp.seq": {
+      "clock_length": 2.1640850560854474,
+      "default.rate": 0.003188717258580125,
+      "default.rate_confidence": [
+        0.0002851971247528599,
+        0.00818286632574368
+      ],
+      "default.rate_median": 0.0023896532995735815,
+      "location": "I",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "I": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2010.0,
+      "posterior": 1.0
+    },
+    "2010Mg165cp.seq": {
+      "clock_length": 2.8857894258477756,
+      "default.rate": 0.00378113029698317,
+      "default.rate_confidence": [
+        0.0007931984727497595,
+        0.008401622838553653
+      ],
+      "default.rate_median": 0.00322854996564782,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2010.0,
+      "posterior": 1.0
+    },
+    "2010Mg210cp.seq": {
+      "clock_length": 6.162640102502698,
+      "default.rate": 0.0018172076939494762,
+      "default.rate_confidence": [
+        0.0002519946358754662,
+        0.004411814805163228
+      ],
+      "default.rate_median": 0.001422225206298442,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2010.0,
+      "posterior": 1.0
+    },
+    "2014Mg301cp.seq": {
+      "clock_length": 3.868430185717626,
+      "default.rate": 0.001492473736977263,
+      "default.rate_confidence": [
+        9.635992295362788e-05,
+        0.004053313246321889
+      ],
+      "default.rate_median": 0.0010389932719077934,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2014.0,
+      "posterior": 1.0
+    },
+    "2014Mg302cp.seq": {
+      "clock_length": 1.866017215192727,
+      "default.rate": 0.0019406826499089652,
+      "default.rate_confidence": [
+        0.00017998525080234254,
+        0.005098285825835346
+      ],
+      "default.rate_median": 0.0014030365656013486,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2014.0,
+      "posterior": 1.0
+    },
+    "2014Mg303cp.seq": {
+      "clock_length": 1.6659971831846292,
+      "default.rate": 0.002066840221377734,
+      "default.rate_confidence": [
+        0.0001350740364520005,
+        0.005391123590325456
+      ],
+      "default.rate_median": 0.0016094233361076452,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2014.0,
+      "posterior": 1.0
+    },
+    "2014Mg304cp.seq": {
+      "clock_length": 1.866017215192727,
+      "default.rate": 0.002014711534868878,
+      "default.rate_confidence": [
+        0.0001575411544570303,
+        0.005343456031338023
+      ],
+      "default.rate_median": 0.0014722519758426347,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2014.0,
+      "posterior": 1.0
+    },
+    "2014Mg341cp.seq": {
+      "clock_length": 1.6659971831846292,
+      "default.rate": 0.003780819664775448,
+      "default.rate_confidence": [
+        0.00030153903288842324,
+        0.009857047807744072
+      ],
+      "default.rate_median": 0.0028413356368356337,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2014.0,
+      "posterior": 1.0
+    },
+    "2014Mg342cp.seq": {
+      "clock_length": 2.137647303939074,
+      "default.rate": 0.0008936768472633129,
+      "default.rate_confidence": [
+        2.8126313143785457e-05,
+        0.0024583290672155708
+      ],
+      "default.rate_median": 0.0006187400213041304,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2014.0,
+      "posterior": 1.0
+    },
+    "2014Mg343cp.seq": {
+      "clock_length": 1.1828680294966247,
+      "default.rate": 0.0017623593838828556,
+      "default.rate_confidence": [
+        3.916790941347481e-05,
+        0.0049677033773850065
+      ],
+      "default.rate_median": 0.0011916798200671736,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2014.0,
+      "posterior": 1.0
+    },
+    "2014Mg344cp.seq": {
+      "clock_length": 1.1828680294966247,
+      "default.rate": 0.0017416658739152471,
+      "default.rate_confidence": [
+        9.792874157073562e-05,
+        0.004718159127736698
+      ],
+      "default.rate_median": 0.0012210053813251802,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2014.0,
+      "posterior": 1.0
+    },
+    "2017Mg401cp.seq": {
+      "clock_length": 14.426057113074684,
+      "default.rate": 0.001808126922693652,
+      "default.rate_confidence": [
+        0.0007889359847111763,
+        0.0029411037709086833
+      ],
+      "default.rate_median": 0.0017200537301045313,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2017.0,
+      "posterior": 1.0
+    },
+    "2017Mg402cp.seq": {
+      "clock_length": 3.914710846221979,
+      "default.rate": 0.0013234367193588768,
+      "default.rate_confidence": [
+        8.712843463715447e-05,
+        0.00346643477440279
+      ],
+      "default.rate_median": 0.0010112980510534515,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2017.0,
+      "posterior": 1.0
+    },
+    "2017Mg403cp.seq": {
+      "clock_length": 3.914710846221979,
+      "default.rate": 0.0027267196552385703,
+      "default.rate_confidence": [
+        0.00038408764048631733,
+        0.006915367219411776
+      ],
+      "default.rate_median": 0.00220843046524898,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2017.0,
+      "posterior": 1.0
+    },
+    "NODE_0000000": {
+      "clock_length": 0.001,
+      "location": "D",
+      "location_confidence": {
+        "A": 0.001665741254858412,
+        "B": 0.004997223764575236,
+        "D": 0.7667962243198223,
+        "F": 0.1943364797334814,
+        "G": 0.010549694614103275,
+        "H": 0.016102165463631316,
+        "I": 0.00555247084952804
+      },
+      "location_entropy": 0.7024399610261037,
+      "num_date": 1977.631235180412,
+      "num_date_confidence": [
+        1986.098307914708,
+        1962.6513782493107
+      ],
+      "posterior": 1.0
+    },
+    "NODE_0000001": {
+      "clock_length": 10.544036791804523,
+      "default.rate": 0.00153433662749947,
+      "default.rate_confidence": [
+        5.0339895440403704e-05,
+        0.004438985976458247
+      ],
+      "default.rate_median": 0.001039523764162942,
+      "location": "F",
+      "location.rate": 0.019319001993779342,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.03206569560286967
+      ],
+      "location.rate_median": 0.018566932712437655,
+      "location_confidence": {
+        "A": 0.0011389521640091116,
+        "B": 0.0005694760820045558,
+        "D": 0.021070615034168565,
+        "F": 0.9749430523917996,
+        "G": 0.0017084282460136675,
+        "H": 0.0005694760820045558
+      },
+      "location_entropy": 0.13318503152886071,
+      "num_date": 1988.1752719722165,
+      "num_date_confidence": [
+        1990.7099026204362,
+        1981.308187527431
+      ],
+      "posterior": 0.9750138811771238
+    },
+    "NODE_0000002": {
+      "clock_length": 4.5792298658550905,
+      "default.rate": 0.0011716194314238283,
+      "default.rate_confidence": [
+        4.6850734487683964e-05,
+        0.0033359617266867326
+      ],
+      "default.rate_median": 0.0008206057633388822,
+      "location": "D",
+      "location.rate": 0.019532982116059756,
+      "location.rate_confidence": [
+        0.009074048377185213,
+        0.03239552327526126
+      ],
+      "location.rate_median": 0.018814632277589845,
+      "location_confidence": {
+        "A": 0.001282051282051282,
+        "B": 0.0038461538461538464,
+        "D": 0.9153846153846154,
+        "F": 0.07307692307692308,
+        "G": 0.001282051282051282,
+        "H": 0.0038461538461538464,
+        "I": 0.001282051282051282
+      },
+      "location_entropy": 0.3405041355105077,
+      "num_date": 1982.210465046267,
+      "num_date_confidence": [
+        1988.1485935707988,
+        1973.5018349814409
+      ],
+      "posterior": 0.4330927262631871
+    },
+    "NODE_0000003": {
+      "clock_length": 4.34642093445267,
+      "default.rate": 0.001487984276554282,
+      "default.rate_confidence": [
+        9.66327168600724e-05,
+        0.004116703298128184
+      ],
+      "default.rate_median": 0.0010873265224990473,
+      "location": "D",
+      "location.rate": 0.018708825556897474,
+      "location.rate_confidence": [
+        0.008720100864617901,
+        0.02937951806546644
+      ],
+      "location.rate_median": 0.018124771140024573,
+      "location_confidence": {
+        "B": 0.0030911901081916537,
+        "D": 0.9520865533230294,
+        "F": 0.04327666151468315,
+        "H": 0.0015455950540958269
+      },
+      "location_entropy": 0.2105098950550369,
+      "num_date": 1986.5568859807197,
+      "num_date_confidence": [
+        1990.1901693223547,
+        1979.1734627960948
+      ],
+      "posterior": 0.3592448639644642
+    },
+    "NODE_0000004": {
+      "clock_length": 3.0763940081191983,
+      "default.rate": 0.0007525784673854872,
+      "default.rate_confidence": [
+        3.5537050112474346e-05,
+        0.002523201167489775
+      ],
+      "default.rate_median": 0.0005055318296451351,
+      "location": "D",
+      "location.rate": 0.018229862408537398,
+      "location.rate_confidence": [
+        0.009253183599879622,
+        0.02824112877423299
+      ],
+      "location.rate_median": 0.017536255232135443,
+      "location_confidence": {
+        "B": 0.004347826086956522,
+        "D": 0.8130434782608695,
+        "F": 0.17391304347826086,
+        "H": 0.008695652173913044
+      },
+      "location_entropy": 0.5373889438384778,
+      "num_date": 1989.633279988839,
+      "num_date_confidence": [
+        1995.4246396274898,
+        1982.65736615335
+      ],
+      "posterior": 0.12770682953914492
+    },
+    "NODE_0000005": {
+      "clock_length": 3.0478527667166233,
+      "default.rate": 0.0009554330925357078,
+      "default.rate_confidence": [
+        5.5657396801084136e-05,
+        0.0025360374857102633
+      ],
+      "default.rate_median": 0.0007015564972778182,
+      "location": "F",
+      "location.rate": 0.018460123915042877,
+      "location.rate_confidence": [
+        0.008092452211005451,
+        0.02905761980677609
+      ],
+      "location.rate_median": 0.017754514621809638,
+      "location_confidence": {
+        "B": 0.024822695035460994,
+        "D": 0.15070921985815602,
+        "F": 0.8173758865248227,
+        "G": 0.0017730496453900709,
+        "H": 0.0017730496453900709,
+        "I": 0.0035460992907801418
+      },
+      "location_entropy": 0.584247599127021,
+      "num_date": 1992.6811327555556,
+      "num_date_confidence": [
+        1997.5356441466872,
+        1986.304883152895
+      ],
+      "posterior": 0.31315935591338145
+    },
+    "NODE_0000006": {
+      "clock_length": 3.111115094674691,
+      "default.rate": 0.0006757611449480466,
+      "default.rate_confidence": [
+        5.91171696394647e-05,
+        0.0016875219980229462
+      ],
+      "default.rate_median": 0.0005258757591066405,
+      "location": "B",
+      "location.rate": 0.01743238993962838,
+      "location.rate_confidence": [
+        0.008208005978315669,
+        0.026016681031553787
+      ],
+      "location.rate_median": 0.017254763398404826,
+      "location_confidence": {
+        "B": 0.5443037974683544,
+        "D": 0.0379746835443038,
+        "F": 0.4177215189873418
+      },
+      "location_entropy": 0.8199264424300422,
+      "num_date": 1995.7922478502303,
+      "num_date_confidence": [
+        2000.02427927661,
+        1990.7043721117811
+      ],
+      "posterior": 0.04386451971127152
+    },
+    "NODE_0000007": {
+      "clock_length": 1.5069057167875748,
+      "default.rate": 0.0007131632951482646,
+      "default.rate_confidence": [
+        3.560492051972584e-05,
+        0.001867048709476947
+      ],
+      "default.rate_median": 0.0005502061227761138,
+      "location": "B",
+      "location.rate": 0.01758896778145031,
+      "location.rate_confidence": [
+        0.008097830450680785,
+        0.030594817219441288
+      ],
+      "location.rate_median": 0.016592040032054705,
+      "location_confidence": {
+        "B": 0.9302325581395349,
+        "D": 0.05426356589147287,
+        "F": 0.015503875968992248
+      },
+      "location_entropy": 0.28999322159382246,
+      "num_date": 1997.2991535670178,
+      "num_date_confidence": [
+        2000.7593611262507,
+        1992.2632330282615
+      ],
+      "posterior": 0.07162687395891172
+    },
+    "NODE_0000008": {
+      "clock_length": 8.825959107637306,
+      "default.rate": 0.0009902127117580707,
+      "default.rate_confidence": [
+        5.1051710738672604e-05,
+        0.0025256766191220346
+      ],
+      "default.rate_median": 0.00074585026749646,
+      "location": "I",
+      "location.rate": 0.01932872442962394,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.018583610693972193,
+      "location_confidence": {
+        "B": 0.002244668911335578,
+        "D": 0.005611672278338945,
+        "F": 0.003367003367003367,
+        "G": 0.0005611672278338945,
+        "H": 0.001122334455667789,
+        "I": 0.9870931537598204
+      },
+      "location_entropy": 0.08659335291657222,
+      "num_date": 2006.1251126746552,
+      "num_date_confidence": [
+        2008.7794146196559,
+        2002.969250895167
+      ],
+      "posterior": 0.9894503053858967
+    },
+    "NODE_0000009": {
+      "clock_length": 1.7108022692594709,
+      "default.rate": 0.0017093531576385338,
+      "default.rate_confidence": [
+        8.047599454877575e-05,
+        0.004844823238253024
+      ],
+      "default.rate_median": 0.0010920524091276923,
+      "location": "I",
+      "location.rate": 0.019231963883039622,
+      "location.rate_confidence": [
+        0.008092452211005451,
+        0.03147439789489826
+      ],
+      "location.rate_median": 0.01830183154616193,
+      "location_confidence": {
+        "D": 0.0009861932938856016,
+        "F": 0.0009861932938856016,
+        "G": 0.0009861932938856016,
+        "I": 0.9970414201183432
+      },
+      "location_entropy": 0.02343247721296617,
+      "num_date": 2007.8359149439145,
+      "num_date_confidence": [
+        2009.562262245147,
+        2005.0275902349288
+      ],
+      "posterior": 0.5630205441421433
+    },
+    "NODE_0000010": {
+      "clock_length": 0.43270413305316424,
+      "default.rate": 0.0006957332993995296,
+      "default.rate_confidence": [
+        3.302173421531249e-05,
+        0.002175072660276311
+      ],
+      "default.rate_median": 0.00047519179974713475,
+      "location": "B",
+      "location.rate": 0.01682571212942936,
+      "location.rate_confidence": [
+        0.007941942824628418,
+        0.026905293185332586
+      ],
+      "location.rate_median": 0.01651356680746735,
+      "location_confidence": {
+        "B": 0.968,
+        "D": 0.008,
+        "F": 0.024
+      },
+      "location_entropy": 0.15962179393662113,
+      "num_date": 1997.731857700071,
+      "num_date_confidence": [
+        2000.6684194042061,
+        1992.91035085605
+      ],
+      "posterior": 0.0694058856191005
+    },
+    "NODE_0000011": {
+      "clock_length": 1.575698844873898,
+      "default.rate": 0.0014198372598068613,
+      "default.rate_confidence": [
+        3.523599305948678e-05,
+        0.0043031887022477395
+      ],
+      "default.rate_median": 0.0009298422160469878,
+      "location": "B",
+      "location.rate": 0.018152800090682986,
+      "location.rate_confidence": [
+        0.00799809478732868,
+        0.02823482059510366
+      ],
+      "location.rate_median": 0.017721688111858827,
+      "location_confidence": {
+        "B": 0.9929178470254958,
+        "F": 0.007082152974504249
+      },
+      "location_entropy": 0.04211492798245144,
+      "num_date": 1999.3075565449449,
+      "num_date_confidence": [
+        2001.729431775974,
+        1996.2757322923344
+      ],
+      "posterior": 0.3920044419766796
+    },
+    "NODE_0000012": {
+      "clock_length": 0.7020339884833504,
+      "default.rate": 0.001313372110377699,
+      "default.rate_confidence": [
+        2.8797433597242264e-05,
+        0.0037638098501853747
+      ],
+      "default.rate_median": 0.0010039261234184825,
+      "location": "B",
+      "location.rate": 0.017641738084897576,
+      "location.rate_confidence": [
+        0.00799809478732868,
+        0.02952347380793035
+      ],
+      "location.rate_median": 0.01624182061909198,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2000.0095905334283,
+      "num_date_confidence": [
+        2001.9634455988949,
+        1997.6625761632163
+      ],
+      "posterior": 0.05941143808995003
+    },
+    "NODE_0000013": {
+      "clock_length": 0.7762448731209162,
+      "default.rate": 0.0016284155003400808,
+      "default.rate_confidence": [
+        6.994312069504751e-05,
+        0.0032783124869514594
+      ],
+      "default.rate_median": 0.000839725335780192,
+      "location": "B",
+      "location.rate": 0.018453604685493764,
+      "location.rate_confidence": [
+        0.010376671131507219,
+        0.024769835464145882
+      ],
+      "location.rate_median": 0.017800539000869815,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2000.7858354065493,
+      "num_date_confidence": [
+        2002.2731707563744,
+        1999.0767827597415
+      ],
+      "posterior": 0.018878400888395337
+    },
+    "NODE_0000014": {
+      "clock_length": 1.2906189074986756,
+      "default.rate": 0.004076585297373091,
+      "default.rate_confidence": [
+        0.00016776098781604132,
+        0.011148673549479883
+      ],
+      "default.rate_median": 0.002907529214594883,
+      "location": "B",
+      "location.rate": 0.019315483417612907,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.03213320158780054
+      ],
+      "location.rate_median": 0.01855611160385689,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2002.0764543140479,
+      "num_date_confidence": [
+        2002.9017803376703,
+        2000.5526846271084
+      ],
+      "posterior": 0.9988895058300944
+    },
+    "NODE_0000015": {
+      "clock_length": 1.411320785207943,
+      "default.rate": 0.0021915334541176075,
+      "default.rate_confidence": [
+        4.25403119213237e-05,
+        0.006003480118138508
+      ],
+      "default.rate_median": 0.0014966421483554935,
+      "location": "B",
+      "location.rate": 0.01930774805565711,
+      "location.rate_confidence": [
+        0.009071043193789399,
+        0.032206261891788567
+      ],
+      "location.rate_median": 0.018553581963873716,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2001.4209113186362,
+      "num_date_confidence": [
+        2002.7064805563155,
+        1999.4273704309821
+      ],
+      "posterior": 0.8561910049972238
+    },
+    "NODE_0000016": {
+      "clock_length": 0.5614086950088133,
+      "default.rate": 0.0015981089153468638,
+      "default.rate_confidence": [
+        5.190658095691816e-05,
+        0.004876251704500745
+      ],
+      "default.rate_median": 0.0010137205856156606,
+      "location": "B",
+      "location.rate": 0.019415171557104136,
+      "location.rate_confidence": [
+        0.008720100864617901,
+        0.03243107010370598
+      ],
+      "location.rate_median": 0.018422222015997823,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2001.982320013645,
+      "num_date_confidence": [
+        2002.8929723575845,
+        2000.3819020808837
+      ],
+      "posterior": 0.43697945585785675
+    },
+    "NODE_0000017": {
+      "clock_length": 2.071017420146042,
+      "default.rate": 0.0013006521549230926,
+      "default.rate_confidence": [
+        3.524713195266257e-05,
+        0.003964248422036563
+      ],
+      "default.rate_median": 0.0008569206158168599,
+      "location": "B",
+      "location.rate": 0.019041567738630902,
+      "location.rate_confidence": [
+        0.007767258777484264,
+        0.03008576284647284
+      ],
+      "location.rate_median": 0.018434703930223426,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2001.378573965091,
+      "num_date_confidence": [
+        2002.7006188556984,
+        1999.203787641397
+      ],
+      "posterior": 0.3214880621876735
+    },
+    "NODE_0000018": {
+      "clock_length": 1.8868041979867733,
+      "default.rate": 0.0008662750293683908,
+      "default.rate_confidence": [
+        3.8370031911656904e-05,
+        0.0021427469722077232
+      ],
+      "default.rate_median": 0.000729951901092334,
+      "location": "B",
+      "location.rate": 0.018366492230396398,
+      "location.rate_confidence": [
+        0.010036855016365009,
+        0.030621799648399214
+      ],
+      "location.rate_median": 0.018050645272342097,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 1999.6186618980578,
+      "num_date_confidence": [
+        2002.1814274163387,
+        1996.376080040239
+      ],
+      "posterior": 0.059966685174902834
+    },
+    "NODE_0000019": {
+      "clock_length": 2.0064106839138702,
+      "default.rate": 0.0008648360117585185,
+      "default.rate_confidence": [
+        4.5942096202656296e-05,
+        0.002447023653695029
+      ],
+      "default.rate_median": 0.0005965210061728973,
+      "location": "B",
+      "location.rate": 0.018687247435392632,
+      "location.rate_confidence": [
+        0.01130023402699757,
+        0.030801921870215097
+      ],
+      "location.rate_median": 0.018086530294808913,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2001.6250725819716,
+      "num_date_confidence": [
+        2002.914887946058,
+        1998.0106702827277
+      ],
+      "posterior": 0.06274292059966685
+    },
+    "NODE_0000020": {
+      "clock_length": 0.411153856505738,
+      "default.rate": 0.0012798681766456757,
+      "default.rate_confidence": [
+        6.633432492373563e-05,
+        0.00435400033161344
+      ],
+      "default.rate_median": 0.0007571224320233788,
+      "location": "B",
+      "location.rate": 0.019237321645187655,
+      "location.rate_confidence": [
+        0.009426939868899743,
+        0.030801921870215097
+      ],
+      "location.rate_median": 0.019064429405375533,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2002.0362264384773,
+      "num_date_confidence": [
+        2002.849833948995,
+        1998.2373471641638
+      ],
+      "posterior": 0.05052748473070516
+    },
+    "NODE_0000021": {
+      "clock_length": 0.7024482414136752,
+      "default.rate": 0.0010858951262385748,
+      "default.rate_confidence": [
+        3.412256051241112e-05,
+        0.0033910354666611235
+      ],
+      "default.rate_median": 0.0006744997701359901,
+      "location": "B",
+      "location.rate": 0.019223027511528885,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01842360343135909,
+      "location_confidence": {
+        "B": 0.9993734335839599,
+        "F": 0.0006265664160401002
+      },
+      "location_entropy": 0.005247457462500183,
+      "num_date": 2002.7386746798911,
+      "num_date_confidence": [
+        2002.9996632839147,
+        2001.5753725191832
+      ],
+      "posterior": 0.8861743475846752
+    },
+    "NODE_0000022": {
+      "clock_length": 2.572676776684931,
+      "default.rate": 0.002467080074775526,
+      "default.rate_confidence": [
+        4.608185791425108e-05,
+        0.006960828124439045
+      ],
+      "default.rate_median": 0.0016519113740694875,
+      "location": "B",
+      "location.rate": 0.018937768703897552,
+      "location.rate_confidence": [
+        0.007941942824628418,
+        0.030594817219441288
+      ],
+      "location.rate_median": 0.018135468498260886,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2002.1913386747426,
+      "num_date_confidence": [
+        2002.91616134596,
+        2000.7215515029898
+      ],
+      "posterior": 0.714047751249306
+    },
+    "NODE_0000023": {
+      "clock_length": 0.31529806664967985,
+      "default.rate": 0.0015599150015319218,
+      "default.rate_confidence": [
+        3.096287869866549e-05,
+        0.004604972179176858
+      ],
+      "default.rate_median": 0.0010221490097829739,
+      "location": "B",
+      "location.rate": 0.018633763533053096,
+      "location.rate_confidence": [
+        0.008092452211005451,
+        0.029821624348487098
+      ],
+      "location.rate_median": 0.018119961509759936,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2002.5066367413924,
+      "num_date_confidence": [
+        2002.9040314580866,
+        2001.5774263120054
+      ],
+      "posterior": 0.09106052193225986
+    },
+    "NODE_0000024": {
+      "clock_length": 0.3287884468032054,
+      "default.rate": 0.0023831462087497628,
+      "default.rate_confidence": [
+        5.556302015005667e-05,
+        0.006700646045731355
+      ],
+      "default.rate_median": 0.0015625321054001916,
+      "location": "B",
+      "location.rate": 0.019284745064381846,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.018504122213933792,
+      "location_confidence": {
+        "B": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2002.8354251881956,
+      "num_date_confidence": [
+        2002.9999299324925,
+        2002.1647215088517
+      ],
+      "posterior": 0.8700721821210439
+    },
+    "NODE_0000025": {
+      "clock_length": 3.086680702036034,
+      "default.rate": 0.0012922506656717792,
+      "default.rate_confidence": [
+        0.0002003548462818446,
+        0.003662491341530271
+      ],
+      "default.rate_median": 0.0010172087397405127,
+      "location": "F",
+      "location.rate": 0.017519680718312003,
+      "location.rate_confidence": [
+        0.009730966195799044,
+        0.028003159646549237
+      ],
+      "location.rate_median": 0.017068230544353854,
+      "location_confidence": {
+        "D": 0.007692307692307693,
+        "F": 0.9923076923076923
+      },
+      "location_entropy": 0.045105218235153906,
+      "num_date": 1995.7678134575915,
+      "num_date_confidence": [
+        1998.9049443903355,
+        1990.7040387221634
+      ],
+      "posterior": 0.07218212104386452
+    },
+    "NODE_0000026": {
+      "clock_length": 0.08014601547571232,
+      "default.rate": 0.0012312212671387209,
+      "default.rate_confidence": [
+        0.0001762954813369768,
+        0.0020823393433670647
+      ],
+      "default.rate_median": 0.0010322402438804868,
+      "location": "F",
+      "location.rate": 0.019806784650456724,
+      "location.rate_confidence": [
+        0.009476801961219068,
+        0.027396437978318765
+      ],
+      "location.rate_median": 0.019732363813949168,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 1995.8479594730672,
+      "num_date_confidence": [
+        1999.1401579719354,
+        1989.9096887255216
+      ],
+      "posterior": 0.018878400888395337
+    },
+    "NODE_0000027": {
+      "clock_length": 2.7832577424202753,
+      "default.rate": 0.0010773868291911758,
+      "default.rate_confidence": [
+        0.00010790189985990673,
+        0.0030867667280851017
+      ],
+      "default.rate_median": 0.0007335872616582911,
+      "location": "F",
+      "location.rate": 0.018179317775915613,
+      "location.rate_confidence": [
+        0.010935450957689231,
+        0.028003159646549237
+      ],
+      "location.rate_median": 0.017653301597239754,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 1998.6312172154876,
+      "num_date_confidence": [
+        2001.9767934754987,
+        1994.0990215172178
+      ],
+      "posterior": 0.04775124930594114
+    },
+    "NODE_0000028": {
+      "clock_length": 2.079402036072892,
+      "default.rate": 0.0013815143639468344,
+      "default.rate_confidence": [
+        3.622907402603925e-05,
+        0.003954800691650841
+      ],
+      "default.rate_median": 0.0009941370098688926,
+      "location": "F",
+      "location.rate": 0.018926402172738842,
+      "location.rate_confidence": [
+        0.008720100864617901,
+        0.030594817219441288
+      ],
+      "location.rate_median": 0.018103214706435174,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2000.7106192515605,
+      "num_date_confidence": [
+        2002.3624168448234,
+        1997.6049069401201
+      ],
+      "posterior": 0.40810660744031096
+    },
+    "NODE_0000029": {
+      "clock_length": 1.6960863953159766,
+      "default.rate": 0.0047474078368005745,
+      "default.rate_confidence": [
+        0.00035206037567725744,
+        0.013038711348682593
+      ],
+      "default.rate_median": 0.0032906988236594405,
+      "location": "F",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2002.4067056468764,
+      "num_date_confidence": [
+        2002.9507555300693,
+        2000.9383597161755
+      ],
+      "posterior": 1.0
+    },
+    "NODE_0000030": {
+      "clock_length": 2.9963404667875793,
+      "default.rate": 0.0008524679992333428,
+      "default.rate_confidence": [
+        2.348605518968952e-05,
+        0.002349702558558615
+      ],
+      "default.rate_median": 0.000605161915217346,
+      "location": "F",
+      "location.rate": 0.019561365898981914,
+      "location.rate_confidence": [
+        0.009635447578700758,
+        0.03209195392139703
+      ],
+      "location.rate_median": 0.019008703057279593,
+      "location_confidence": {
+        "B": 0.0010111223458038423,
+        "F": 0.9989888776541962
+      },
+      "location_entropy": 0.00798401254011005,
+      "num_date": 2003.7069597183481,
+      "num_date_confidence": [
+        2006.4446270062538,
+        2000.5441875072356
+      ],
+      "posterior": 0.5491393670183231
+    },
+    "NODE_0000031": {
+      "clock_length": 0.1304001791492997,
+      "default.rate": 0.0010069524408975186,
+      "default.rate_confidence": [
+        5.204148328044015e-05,
+        0.002761724696272558
+      ],
+      "default.rate_median": 0.0007148013698728404,
+      "location": "F",
+      "location.rate": 0.019390473673705673,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.03178515833912685
+      ],
+      "location.rate_median": 0.01836372067727149,
+      "location_confidence": {
+        "F": 0.9984076433121019,
+        "G": 0.0015923566878980893
+      },
+      "location_entropy": 0.011849909935648925,
+      "num_date": 2003.8373598974974,
+      "num_date_confidence": [
+        2006.18327637716,
+        2000.7418190857916
+      ],
+      "posterior": 0.34869516935036093
+    },
+    "NODE_0000032": {
+      "clock_length": 2.46276303457911,
+      "default.rate": 0.0033605409178943087,
+      "default.rate_confidence": [
+        0.00024102209249407446,
+        0.008810790060287786
+      ],
+      "default.rate_median": 0.0024598697889274884,
+      "location": "F",
+      "location.rate": 0.019318354379749568,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.018553581963873716,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2006.3001229320764,
+      "num_date_confidence": [
+        2007.683821955499,
+        2004.0877951935852
+      ],
+      "posterior": 0.9983342587451416
+    },
+    "NODE_0000033": {
+      "clock_length": 9.378329435430018,
+      "default.rate": 0.0012594853789011141,
+      "default.rate_confidence": [
+        0.00015886535611223297,
+        0.0028657959414732964
+      ],
+      "default.rate_median": 0.0010456072355411851,
+      "location": "F",
+      "location.rate": 0.019322866523281274,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.0185565231087562,
+      "location_confidence": {
+        "A": 0.009444444444444445,
+        "D": 0.0005555555555555556,
+        "F": 0.99
+      },
+      "location_entropy": 0.0581471256066114,
+      "num_date": 2013.0852891537781,
+      "num_date_confidence": [
+        2016.108868613514,
+        2008.6159906777489
+      ],
+      "posterior": 0.9994447529150472
+    },
+    "NODE_0000034": {
+      "clock_length": 2.2545062133932987,
+      "default.rate": 0.001335730599673056,
+      "default.rate_confidence": [
+        7.121581295763088e-05,
+        0.0032231341321032835
+      ],
+      "default.rate_median": 0.0009483786468356093,
+      "location": "F",
+      "location.rate": 0.01831692832742563,
+      "location.rate_confidence": [
+        0.008720100864617901,
+        0.029623569767976622
+      ],
+      "location.rate_median": 0.017460629601706638,
+      "location_confidence": {
+        "A": 0.016233766233766232,
+        "F": 0.9837662337662337
+      },
+      "location_entropy": 0.08299514111282982,
+      "num_date": 2000.885723428881,
+      "num_date_confidence": [
+        2002.776885193488,
+        1996.8840673228433
+      ],
+      "posterior": 0.17101610216546362
+    },
+    "NODE_0000035": {
+      "clock_length": 2.7127347946035343,
+      "default.rate": 0.00134811369566579,
+      "default.rate_confidence": [
+        9.370738742969906e-05,
+        0.003431867408311318
+      ],
+      "default.rate_median": 0.0010094552088833891,
+      "location": "A",
+      "location.rate": 0.01895998805677505,
+      "location.rate_confidence": [
+        0.00799809478732868,
+        0.029818300802908673
+      ],
+      "location.rate_median": 0.01801920008762515,
+      "location_confidence": {
+        "A": 0.8042394014962594,
+        "C": 0.004987531172069825,
+        "D": 0.003740648379052369,
+        "F": 0.18079800498753118,
+        "G": 0.006234413965087282
+      },
+      "location_entropy": 0.5634414616596429,
+      "num_date": 2003.5984582234844,
+      "num_date_confidence": [
+        2006.0975024429097,
+        2000.400994464346
+      ],
+      "posterior": 0.4453081621321488
+    },
+    "NODE_0000036": {
+      "clock_length": 0.7628192083017389,
+      "default.rate": 0.001958475680616369,
+      "default.rate_confidence": [
+        2.6725106387066493e-05,
+        0.005904371956798081
+      ],
+      "default.rate_median": 0.0013492851367318227,
+      "location": "A",
+      "location.rate": 0.01975730622112849,
+      "location.rate_confidence": [
+        0.009628881632859694,
+        0.032643070094395675
+      ],
+      "location.rate_median": 0.01895163867623375,
+      "location_confidence": {
+        "A": 0.8209408194233687,
+        "C": 0.010622154779969651,
+        "D": 0.0030349013657056147,
+        "F": 0.15781487101669195,
+        "G": 0.007587253414264037
+      },
+      "location_entropy": 0.5562601981400992,
+      "num_date": 2004.3612774317862,
+      "num_date_confidence": [
+        2007.027886814387,
+        2001.7158388582916
+      ],
+      "posterior": 0.36590782898389784
+    },
+    "NODE_0000037": {
+      "clock_length": 1.3005540532579651,
+      "default.rate": 0.002164693929981824,
+      "default.rate_confidence": [
+        6.287667675773942e-05,
+        0.006096222046291345
+      ],
+      "default.rate_median": 0.0015131052426113618,
+      "location": "A",
+      "location.rate": 0.019902862569593133,
+      "location.rate_confidence": [
+        0.009090814791467923,
+        0.03248095983822232
+      ],
+      "location.rate_median": 0.018770586141268635,
+      "location_confidence": {
+        "A": 0.9714285714285714,
+        "F": 0.025,
+        "G": 0.0035714285714285713
+      },
+      "location_entropy": 0.14050555616961224,
+      "num_date": 2005.661831485044,
+      "num_date_confidence": [
+        2008.1275595298262,
+        2003.4558398219606
+      ],
+      "posterior": 0.15546918378678512
+    },
+    "NODE_0000038": {
+      "clock_length": 0.9166494245985461,
+      "default.rate": 0.0018814936752138637,
+      "default.rate_confidence": [
+        5.353377890788035e-05,
+        0.005300712624103169
+      ],
+      "default.rate_median": 0.0013620912337669626,
+      "location": "A",
+      "location.rate": 0.019425801935078302,
+      "location.rate_confidence": [
+        0.009366542571186305,
+        0.03169311201217036
+      ],
+      "location.rate_median": 0.01825844909176661,
+      "location_confidence": {
+        "A": 0.95822454308094,
+        "C": 0.015665796344647518,
+        "F": 0.020887728459530026,
+        "G": 0.005221932114882507
+      },
+      "location_entropy": 0.21424861346483867,
+      "num_date": 2006.5784809096426,
+      "num_date_confidence": [
+        2008.7621683546433,
+        2004.266051219849
+      ],
+      "posterior": 0.21265963353692394
+    },
+    "NODE_0000039": {
+      "clock_length": 1.452379089108156,
+      "default.rate": 0.001472236904500772,
+      "default.rate_confidence": [
+        7.818848377095359e-05,
+        0.004209619440488555
+      ],
+      "default.rate_median": 0.0009946127541855402,
+      "location": "A",
+      "location.rate": 0.020099673269138887,
+      "location.rate_confidence": [
+        0.008728532398942716,
+        0.03294521548087444
+      ],
+      "location.rate_median": 0.018694307132578324,
+      "location_confidence": {
+        "A": 0.9439252336448598,
+        "F": 0.04672897196261682,
+        "G": 0.009345794392523364
+      },
+      "location_entropy": 0.24129274291762853,
+      "num_date": 2007.1142105741524,
+      "num_date_confidence": [
+        2009.0031441896651,
+        2004.8091247121997
+      ],
+      "posterior": 0.05941143808995003
+    },
+    "NODE_0000040": {
+      "clock_length": 2.773923990764219,
+      "default.rate": 0.0016657770291058462,
+      "default.rate_confidence": [
+        8.085664954776345e-05,
+        0.005114019614341331
+      ],
+      "default.rate_median": 0.0009749803622402054,
+      "location": "A",
+      "location.rate": 0.020382726200987862,
+      "location.rate_confidence": [
+        0.010036855016365009,
+        0.033359594279014936
+      ],
+      "location.rate_median": 0.01916382471892738,
+      "location_confidence": {
+        "A": 0.9537037037037037,
+        "C": 0.037037037037037035,
+        "F": 0.004629629629629629,
+        "G": 0.004629629629629629
+      },
+      "location_entropy": 0.21704681883929278,
+      "num_date": 2007.1352014225504,
+      "num_date_confidence": [
+        2009.1896433867428,
+        2004.7027427424157
+      ],
+      "posterior": 0.11993337034980567
+    },
+    "NODE_0000041": {
+      "clock_length": 1.5559573501868904,
+      "default.rate": 0.0019185618552214447,
+      "default.rate_confidence": [
+        0.00010315005738263845,
+        0.005779803908258641
+      ],
+      "default.rate_median": 0.001295790141618432,
+      "location": "F",
+      "location.rate": 0.01798215777014657,
+      "location.rate_confidence": [
+        0.007941942824628418,
+        0.027784445778756897
+      ],
+      "location.rate_median": 0.017214639876650915,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 1997.4039168232541,
+      "num_date_confidence": [
+        2000.6947733122206,
+        1993.130787405683
+      ],
+      "posterior": 0.1265963353692393
+    },
+    "NODE_0000042": {
+      "clock_length": 1.2280744762630533,
+      "default.rate": 0.0020092959718818527,
+      "default.rate_confidence": [
+        7.824563765487087e-05,
+        0.006141736537257493
+      ],
+      "default.rate_median": 0.0013604631702461571,
+      "location": "F",
+      "location.rate": 0.019120082249796676,
+      "location.rate_confidence": [
+        0.009426939868899743,
+        0.03248095983822232
+      ],
+      "location.rate_median": 0.01824627440113006,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 1998.6319912995173,
+      "num_date_confidence": [
+        2001.1024433199118,
+        1995.5328012403088
+      ],
+      "posterior": 0.5874514158800667
+    },
+    "NODE_0000043": {
+      "clock_length": 2.812157200110896,
+      "default.rate": 0.003291172438228923,
+      "default.rate_confidence": [
+        0.0002092412870743227,
+        0.008733767710181651
+      ],
+      "default.rate_median": 0.0024425830550106253,
+      "location": "F",
+      "location.rate": 0.019292128302125216,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.018546900711556506,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2001.4441484996282,
+      "num_date_confidence": [
+        2002.695549318645,
+        1999.4303240081138
+      ],
+      "posterior": 0.9694614103275958
+    },
+    "NODE_0000044": {
+      "clock_length": 0.6418784640309134,
+      "default.rate": 0.0014539641376503799,
+      "default.rate_confidence": [
+        3.738647521275061e-05,
+        0.00433623619620617
+      ],
+      "default.rate_median": 0.0009874854880978687,
+      "location": "F",
+      "location.rate": 0.01903849563228645,
+      "location.rate_confidence": [
+        0.009071043193789399,
+        0.03213320158780054
+      ],
+      "location.rate_median": 0.0182330681765287,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2002.0860269636592,
+      "num_date_confidence": [
+        2002.901025235044,
+        2000.7393698126218
+      ],
+      "posterior": 0.4103275957801222
+    },
+    "NODE_0000045": {
+      "clock_length": 0.5990858259694498,
+      "default.rate": 0.0015850750108152864,
+      "default.rate_confidence": [
+        4.6850734487683964e-05,
+        0.004075682968655052
+      ],
+      "default.rate_median": 0.0011760572856128319,
+      "location": "F",
+      "location.rate": 0.01975600370408716,
+      "location.rate_confidence": [
+        0.00975185070771869,
+        0.03248095983822232
+      ],
+      "location.rate_median": 0.019046797628362047,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 1999.2310771254868,
+      "num_date_confidence": [
+        2001.221882750013,
+        1996.5553963062048
+      ],
+      "posterior": 0.11493614658523042
+    },
+    "NODE_0000046": {
+      "clock_length": 0.42438226945557744,
+      "default.rate": 0.0014469458826293516,
+      "default.rate_confidence": [
+        8.50840316196013e-05,
+        0.003500898610193745
+      ],
+      "default.rate_median": 0.0008912219502507138,
+      "location": "F",
+      "location.rate": 0.019346735673639218,
+      "location.rate_confidence": [
+        0.01130023402699757,
+        0.03248095983822232
+      ],
+      "location.rate_median": 0.01847114121999004,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 1999.6554593949422,
+      "num_date_confidence": [
+        2001.247492622235,
+        1996.6366217688874
+      ],
+      "posterior": 0.06440866185452526
+    },
+    "NODE_0000047": {
+      "clock_length": 0.8834585421440444,
+      "default.rate": 0.0013802018542708636,
+      "default.rate_confidence": [
+        2.58211805801372e-05,
+        0.00430784553511054
+      ],
+      "default.rate_median": 0.0009334691483371814,
+      "location": "F",
+      "location.rate": 0.019163044462004734,
+      "location.rate_confidence": [
+        0.010036855016365009,
+        0.03042443331493879
+      ],
+      "location.rate_median": 0.018796295496805514,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2000.5389179370864,
+      "num_date_confidence": [
+        2002.158046580517,
+        1998.375950477287
+      ],
+      "posterior": 0.18267629094947252
+    },
+    "NODE_0000048": {
+      "clock_length": 1.4166477400338735,
+      "default.rate": 0.0016634448684304847,
+      "default.rate_confidence": [
+        8.072126988801087e-05,
+        0.004910337605010937
+      ],
+      "default.rate_median": 0.0010877206030049402,
+      "location": "F",
+      "location.rate": 0.01929706866716682,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.03213320158780054
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2001.9555656771201,
+      "num_date_confidence": [
+        2002.9071091883618,
+        2000.2564310602688
+      ],
+      "posterior": 0.9566907273736813
+    },
+    "NODE_0000049": {
+      "clock_length": 0.9869181089124375,
+      "default.rate": 0.0016696559144382193,
+      "default.rate_confidence": [
+        6.362754076493108e-05,
+        0.004722747076122385
+      ],
+      "default.rate_median": 0.0011718789572466009,
+      "location": "F",
+      "location.rate": 0.019299504269832263,
+      "location.rate_confidence": [
+        0.009071043193789399,
+        0.03187480917710764
+      ],
+      "location.rate_median": 0.018615533646185487,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2001.5258360459989,
+      "num_date_confidence": [
+        2002.7174667490476,
+        1999.5934731722627
+      ],
+      "posterior": 0.7767906718489728
+    },
+    "NODE_0000050": {
+      "clock_length": 0.5477024776403567,
+      "default.rate": 0.0014173148917507796,
+      "default.rate_confidence": [
+        3.8288664656422467e-05,
+        0.00425645387910709
+      ],
+      "default.rate_median": 0.0009371878881391018,
+      "location": "F",
+      "location.rate": 0.019589672195487972,
+      "location.rate_confidence": [
+        0.009529571248873624,
+        0.03311211472262288
+      ],
+      "location.rate_median": 0.018748963729077694,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2002.0735385236392,
+      "num_date_confidence": [
+        2002.9627839408463,
+        2000.7023433990714
+      ],
+      "posterior": 0.3459189339255969
+    },
+    "NODE_0000051": {
+      "clock_length": 1.3316249130062907,
+      "default.rate": 0.003813969225919891,
+      "default.rate_confidence": [
+        0.00017794418594911762,
+        0.009905661947955415
+      ],
+      "default.rate_median": 0.002669023002366634,
+      "location": "F",
+      "location.rate": 0.01928890742434095,
+      "location.rate_confidence": [
+        0.009071043193789399,
+        0.032206261891788567
+      ],
+      "location.rate_median": 0.018498928517541167,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2000.9870843079486,
+      "num_date_confidence": [
+        2002.6353056996259,
+        1998.3087676750688
+      ],
+      "posterior": 0.971682398667407
+    },
+    "NODE_0000052": {
+      "clock_length": 2.648332326048994,
+      "default.rate": 0.0025628245647292144,
+      "default.rate_confidence": [
+        0.00012207938135021105,
+        0.00699336206079327
+      ],
+      "default.rate_median": 0.0018009163755981661,
+      "location": "F",
+      "location.rate": 0.01931076521327189,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.018548167802283244,
+      "location_confidence": {
+        "F": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2001.8794094515356,
+      "num_date_confidence": [
+        2002.8348546163488,
+        1999.9134358960525
+      ],
+      "posterior": 0.9911160466407551
+    },
+    "NODE_0000053": {
+      "clock_length": 2.3765220925311112,
+      "default.rate": 0.0019262968594254807,
+      "default.rate_confidence": [
+        6.735175663952192e-05,
+        0.005066055164954093
+      ],
+      "default.rate_median": 0.0014204763972448834,
+      "location": "F",
+      "location.rate": 0.01912748765847852,
+      "location.rate_confidence": [
+        0.008510609422808455,
+        0.03095067415535534
+      ],
+      "location.rate_median": 0.018545633620829765,
+      "location_confidence": {
+        "A": 0.001088139281828074,
+        "F": 0.9749727965179543,
+        "G": 0.023939064200217627
+      },
+      "location_entropy": 0.12148248331855901,
+      "num_date": 1999.7804389157852,
+      "num_date_confidence": [
+        2002.4928969304515,
+        1996.4532551001444
+      ],
+      "posterior": 0.5102720710716269
+    },
+    "NODE_0000054": {
+      "clock_length": 0.8514959436239558,
+      "default.rate": 0.001938679861759138,
+      "default.rate_confidence": [
+        8.584436853762301e-05,
+        0.005445578931556773
+      ],
+      "default.rate_median": 0.001154557628105426,
+      "location": "F",
+      "location.rate": 0.02005350427266673,
+      "location.rate_confidence": [
+        0.009628881632859694,
+        0.033359594279014936
+      ],
+      "location.rate_median": 0.01898152673538864,
+      "location_confidence": {
+        "B": 0.003215434083601286,
+        "D": 0.003215434083601286,
+        "F": 0.9517684887459807,
+        "G": 0.04180064308681672
+      },
+      "location_entropy": 0.21667156088881012,
+      "num_date": 2000.6319348594093,
+      "num_date_confidence": [
+        2002.6746412588222,
+        1997.555585180221
+      ],
+      "posterior": 0.17268184342032206
+    },
+    "NODE_0000055": {
+      "clock_length": 1.7201179960206403,
+      "default.rate": 0.0016858976730550726,
+      "default.rate_confidence": [
+        7.664394305140344e-05,
+        0.004825277548319372
+      ],
+      "default.rate_median": 0.001094838296453124,
+      "location": "G",
+      "location.rate": 0.01929349656192475,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.03206569560286967
+      ],
+      "location.rate_median": 0.0185565231087562,
+      "location_confidence": {
+        "B": 0.0005701254275940707,
+        "D": 0.0005701254275940707,
+        "F": 0.01767388825541619,
+        "G": 0.9811858608893956
+      },
+      "location_entropy": 0.09847923888383942,
+      "num_date": 2002.35205285543,
+      "num_date_confidence": [
+        2003.7248091631047,
+        1999.9978727160576
+      ],
+      "posterior": 0.9739033870072182
+    },
+    "NODE_0000056": {
+      "clock_length": 1.4482706576318662,
+      "default.rate": 0.004135284891980664,
+      "default.rate_confidence": [
+        0.00031014094901282523,
+        0.011267636305267057
+      ],
+      "default.rate_median": 0.002905629147717359,
+      "location": "G",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "G": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.8003235130618,
+      "num_date_confidence": [
+        2003.9999197322477,
+        2003.1142864048995
+      ],
+      "posterior": 1.0
+    },
+    "NODE_0000057": {
+      "clock_length": 7.671398283607449,
+      "default.rate": 0.002611753210218885,
+      "default.rate_confidence": [
+        0.00025006886893126065,
+        0.006762529766890533
+      ],
+      "default.rate_median": 0.0019192812273475625,
+      "location": "G",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "F": 0.002220988339811216,
+        "G": 0.9977790116601888
+      },
+      "location_entropy": 0.015788321103365754,
+      "num_date": 2003.439211741199,
+      "num_date_confidence": [
+        2003.9757666349253,
+        2002.1328247708882
+      ],
+      "posterior": 1.0
+    },
+    "NODE_0000058": {
+      "clock_length": 12.244217663709268,
+      "default.rate": 0.0006054424414125859,
+      "default.rate_confidence": [
+        2.428002603854316e-05,
+        0.002035616873185287
+      ],
+      "default.rate_median": 0.00030303145587959497,
+      "location": "D",
+      "location.rate": 0.018521118971847692,
+      "location.rate_confidence": [
+        0.007767258777484264,
+        0.029821624348487098
+      ],
+      "location.rate_median": 0.0175725965031043,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2001.8774976525483,
+      "num_date_confidence": [
+        2003.8809502555177,
+        1992.5475480270086
+      ],
+      "posterior": 0.5896724042198779
+    },
+    "NODE_0000059": {
+      "clock_length": 2.8328224955836667,
+      "default.rate": 0.0018405019005400534,
+      "default.rate_confidence": [
+        6.210372834987713e-05,
+        0.005199559718941892
+      ],
+      "default.rate_median": 0.0013015587226507383,
+      "location": "D",
+      "location.rate": 0.01805696117111604,
+      "location.rate_confidence": [
+        0.007954362691820344,
+        0.0283496681820178
+      ],
+      "location.rate_median": 0.017269012515876602,
+      "location_confidence": {
+        "D": 0.9962859795728877,
+        "F": 0.002785515320334262,
+        "H": 0.0009285051067780873
+      },
+      "location_entropy": 0.026577961249384097,
+      "num_date": 1989.3897084763034,
+      "num_date_confidence": [
+        1990.9805406406772,
+        1985.192819989563
+      ],
+      "posterior": 0.5980011104941699
+    },
+    "NODE_0000060": {
+      "clock_length": 1.2869544773346746,
+      "default.rate": 0.0020837324892161685,
+      "default.rate_confidence": [
+        2.2933140419908745e-05,
+        0.005964622716160593
+      ],
+      "default.rate_median": 0.0014121870083856783,
+      "location": "D",
+      "location.rate": 0.019429205017488217,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.03243107010370598
+      ],
+      "location.rate_median": 0.018610175404096655,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 1990.676662953638,
+      "num_date_confidence": [
+        1990.99983796477,
+        1989.2634011889772
+      ],
+      "posterior": 0.9450305385896725
+    },
+    "NODE_0000061": {
+      "clock_length": 19.745333568435527,
+      "default.rate": 0.0006149953859817072,
+      "default.rate_confidence": [
+        3.511900657209955e-05,
+        0.0016905152367671598
+      ],
+      "default.rate_median": 0.0003886143168599897,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 0.9994447529150472,
+        "H": 0.000555247084952804
+      },
+      "location_entropy": 0.004717278906183226,
+      "num_date": 2009.1350420447388,
+      "num_date_confidence": [
+        2011.8791609441284,
+        2005.223192456188
+      ],
+      "posterior": 1.0
+    },
+    "NODE_0000062": {
+      "clock_length": 3.1989607720764894,
+      "default.rate": 0.0025062110589895,
+      "default.rate_confidence": [
+        0.00011215138209235739,
+        0.006325224932936937
+      ],
+      "default.rate_median": 0.0016722278455824436,
+      "location": "D",
+      "location.rate": 0.01941027273716501,
+      "location.rate_confidence": [
+        0.00912249619576525,
+        0.03187480917710764
+      ],
+      "location.rate_median": 0.018697647447283184,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2012.3340028168154,
+      "num_date_confidence": [
+        2013.6416305137411,
+        2009.7352490280305
+      ],
+      "posterior": 0.36535258189894504
+    },
+    "NODE_0000063": {
+      "clock_length": 0.9965277695434924,
+      "default.rate": 0.0011260175011875294,
+      "default.rate_confidence": [
+        4.25403119213237e-05,
+        0.003086932560985883
+      ],
+      "default.rate_median": 0.0007805581642186025,
+      "location": "D",
+      "location.rate": 0.019003818657541166,
+      "location.rate_confidence": [
+        0.00799114604472307,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01765565847907169,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2010.1315698142823,
+      "num_date_confidence": [
+        2012.4901674633818,
+        2007.0728880928018
+      ],
+      "posterior": 0.08995002776235425
+    },
+    "NODE_0000064": {
+      "clock_length": 0.5366980527465959,
+      "default.rate": 0.0011544837747572007,
+      "default.rate_confidence": [
+        9.582263980490031e-05,
+        0.003141402876066052
+      ],
+      "default.rate_median": 0.000732728856893723,
+      "location": "D",
+      "location.rate": 0.01745533683059554,
+      "location.rate_confidence": [
+        0.010117717370992874,
+        0.023684379472350792
+      ],
+      "location.rate_median": 0.016229139275493378,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2010.668267867029,
+      "num_date_confidence": [
+        2012.665524040765,
+        2009.560249966862
+      ],
+      "posterior": 0.02109938922820655
+    },
+    "NODE_0000065": {
+      "clock_length": 2.1488641034744056,
+      "default.rate": 0.0015383744729217438,
+      "default.rate_confidence": [
+        5.1004119358753175e-05,
+        0.004452235851709625
+      ],
+      "default.rate_median": 0.0010094625593059933,
+      "location": "D",
+      "location.rate": 0.019463519575276787,
+      "location.rate_confidence": [
+        0.008637733591025876,
+        0.032206261891788567
+      ],
+      "location.rate_median": 0.018672226789864726,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2012.8171319705034,
+      "num_date_confidence": [
+        2013.9095735535223,
+        2010.5708677106297
+      ],
+      "posterior": 0.6513048306496391
+    },
+    "NODE_0000066": {
+      "clock_length": 1.1940848290319561,
+      "default.rate": 0.0009288008102920784,
+      "default.rate_confidence": [
+        0.00010878173641783771,
+        0.0022791429172061557
+      ],
+      "default.rate_median": 0.0006588956606295082,
+      "location": "D",
+      "location.rate": 0.0193937910048191,
+      "location.rate_confidence": [
+        0.009079565471386995,
+        0.03206569560286967
+      ],
+      "location.rate_median": 0.01834807264987124,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2011.862352696061,
+      "num_date_confidence": [
+        2013.4380356826025,
+        2009.5015779351038
+      ],
+      "posterior": 0.08550805108273181
+    },
+    "NODE_0000067": {
+      "clock_length": 0.2716300887463472,
+      "default.rate": 0.0011615228342387299,
+      "default.rate_confidence": [
+        3.1842034472961274e-05,
+        0.0037980394313095163
+      ],
+      "default.rate_median": 0.0006898294534333524,
+      "location": "D",
+      "location.rate": 0.019490494755055567,
+      "location.rate_confidence": [
+        0.008637733591025876,
+        0.03143419677234166
+      ],
+      "location.rate_median": 0.018638431598675037,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2012.1339827848074,
+      "num_date_confidence": [
+        2013.701958952534,
+        2009.8608754259217
+      ],
+      "posterior": 0.13214880621876735
+    },
+    "NODE_0000068": {
+      "clock_length": 2.2352535203984587,
+      "default.rate": 0.001374630677577383,
+      "default.rate_confidence": [
+        4.719035908720234e-05,
+        0.003362555912485437
+      ],
+      "default.rate_median": 0.0008266237237507924,
+      "location": "D",
+      "location.rate": 0.018322053192071093,
+      "location.rate_confidence": [
+        0.009476801961219068,
+        0.028977763027514033
+      ],
+      "location.rate_median": 0.01772303224288686,
+      "location_confidence": {
+        "D": 0.9812206572769953,
+        "F": 0.009389671361502348,
+        "H": 0.009389671361502348
+      },
+      "location_entropy": 0.10626659084188862,
+      "num_date": 1984.4457185666656,
+      "num_date_confidence": [
+        1988.1544427572185,
+        1977.6124113856022
+      ],
+      "posterior": 0.11826762909494726
+    },
+    "NODE_0000069": {
+      "clock_length": 7.517601778206959,
+      "default.rate": 0.0005138793905639465,
+      "default.rate_confidence": [
+        4.6992024833883105e-05,
+        0.0013874426582417049
+      ],
+      "default.rate_median": 0.00035531110488848513,
+      "location": "D",
+      "location.rate": 0.019025588576298064,
+      "location.rate_confidence": [
+        0.01015711417895846,
+        0.02838062592368532
+      ],
+      "location.rate_median": 0.018527819277947374,
+      "location_confidence": {
+        "D": 0.7695652173913043,
+        "F": 0.034782608695652174,
+        "G": 0.004347826086956522,
+        "H": 0.18695652173913044,
+        "I": 0.004347826086956522
+      },
+      "location_entropy": 0.6791852215804579,
+      "num_date": 1991.9633203448725,
+      "num_date_confidence": [
+        1998.6948589502604,
+        1983.973539334065
+      ],
+      "posterior": 0.12770682953914492
+    },
+    "NODE_0000070": {
+      "clock_length": 1.8698145308437013,
+      "default.rate": 0.000492269889437198,
+      "default.rate_confidence": [
+        3.900382680669983e-05,
+        0.0013794267567761624
+      ],
+      "default.rate_median": 0.0003155917264139106,
+      "location": "D",
+      "location.rate": 0.019245254948115905,
+      "location.rate_confidence": [
+        0.009588045516557854,
+        0.03147439789489826
+      ],
+      "location.rate_median": 0.018592196049005943,
+      "location_confidence": {
+        "D": 0.716931216931217,
+        "F": 0.005291005291005291,
+        "H": 0.27645502645502645,
+        "I": 0.0013227513227513227
+      },
+      "location_entropy": 0.6305186127035893,
+      "num_date": 1993.8331348757163,
+      "num_date_confidence": [
+        2000.7691402452049,
+        1984.752491678964
+      ],
+      "posterior": 0.41976679622431984
+    },
+    "NODE_0000071": {
+      "clock_length": 2.9420188798521387,
+      "default.rate": 0.0012112633181381805,
+      "default.rate_confidence": [
+        5.8698445348469765e-05,
+        0.003743423671527597
+      ],
+      "default.rate_median": 0.0007569099643917304,
+      "location": "D",
+      "location.rate": 0.018854877561842606,
+      "location.rate_confidence": [
+        0.009074048377185213,
+        0.031601847203196205
+      ],
+      "location.rate_median": 0.017985856978634696,
+      "location_confidence": {
+        "D": 0.7006578947368421,
+        "F": 0.011513157894736841,
+        "H": 0.2878289473684211
+      },
+      "location_entropy": 0.6591056744445322,
+      "num_date": 1996.7751537555682,
+      "num_date_confidence": [
+        2000.9435714037056,
+        1989.1064631989263
+      ],
+      "posterior": 0.3375902276513048
+    },
+    "NODE_0000072": {
+      "clock_length": 3.2731444666827088,
+      "default.rate": 0.0020796665533537326,
+      "default.rate_confidence": [
+        0.00011187272217058004,
+        0.005732052876654588
+      ],
+      "default.rate_median": 0.0014380571836354406,
+      "location": "D",
+      "location.rate": 0.019007518665916268,
+      "location.rate_confidence": [
+        0.007954362691820344,
+        0.03042741637599738
+      ],
+      "location.rate_median": 0.01826558189669749,
+      "location_confidence": {
+        "B": 0.0007012622720897616,
+        "D": 0.9228611500701263,
+        "F": 0.05960729312762973,
+        "G": 0.0007012622720897616,
+        "H": 0.016129032258064516
+      },
+      "location_entropy": 0.31892796722806116,
+      "num_date": 2000.048298222251,
+      "num_date_confidence": [
+        2002.4585471908395,
+        1994.8875468561046
+      ],
+      "posterior": 0.7917823431426985
+    },
+    "NODE_0000073": {
+      "clock_length": 2.5256446646743314,
+      "default.rate": 0.0037602975112978145,
+      "default.rate_confidence": [
+        0.00017477175350171287,
+        0.010437413704475111
+      ],
+      "default.rate_median": 0.0027580929269534764,
+      "location": "F",
+      "location.rate": 0.019244010571574644,
+      "location.rate_confidence": [
+        0.009071043193789399,
+        0.03206569560286967
+      ],
+      "location.rate_median": 0.018504586232004207,
+      "location_confidence": {
+        "A": 0.0005678591709256105,
+        "D": 0.02612152186257808,
+        "F": 0.9716070414537195,
+        "G": 0.0005678591709256105,
+        "H": 0.0005678591709256105,
+        "I": 0.0005678591709256105
+      },
+      "location_entropy": 0.14017473659124227,
+      "num_date": 2002.5739428869254,
+      "num_date_confidence": [
+        2002.9995156776417,
+        2000.8577925695688
+      ],
+      "posterior": 0.9777901166018879
+    },
+    "NODE_0000074": {
+      "clock_length": 1.7292144087041486,
+      "default.rate": 0.0011765981130088278,
+      "default.rate_confidence": [
+        5.18415358273974e-05,
+        0.0034154044934172414
+      ],
+      "default.rate_median": 0.0007392851919828414,
+      "location": "D",
+      "location.rate": 0.019059372571257994,
+      "location.rate_confidence": [
+        0.009527629830396823,
+        0.03042741637599738
+      ],
+      "location.rate_median": 0.018591745030202788,
+      "location_confidence": {
+        "D": 0.6712328767123288,
+        "F": 0.0045662100456621,
+        "H": 0.3242009132420091
+      },
+      "location_entropy": 0.6573645992589316,
+      "num_date": 1998.5043681642724,
+      "num_date_confidence": [
+        2002.2916370732312,
+        1992.6546231141372
+      ],
+      "posterior": 0.12159911160466408
+    },
+    "NODE_0000075": {
+      "clock_length": 1.9902908133914892,
+      "default.rate": 0.0011509878449323951,
+      "default.rate_confidence": [
+        2.6711915936051263e-05,
+        0.003322937474874852
+      ],
+      "default.rate_median": 0.0006449379166578905,
+      "location": "D",
+      "location.rate": 0.020750348161686347,
+      "location.rate_confidence": [
+        0.008092452211005451,
+        0.03337183351970962
+      ],
+      "location.rate_median": 0.020159188108715163,
+      "location_confidence": {
+        "D": 0.5411764705882353,
+        "H": 0.4588235294117647
+      },
+      "location_entropy": 0.6897523334955566,
+      "num_date": 2000.494658977664,
+      "num_date_confidence": [
+        2003.3796185907381,
+        1994.7504430779272
+      ],
+      "posterior": 0.09439200444197668
+    },
+    "NODE_0000076": {
+      "clock_length": 2.998007056949479,
+      "default.rate": 0.0021903985651673466,
+      "default.rate_confidence": [
+        5.1730920394454805e-05,
+        0.006791038249599663
+      ],
+      "default.rate_median": 0.0013070670617696097,
+      "location": "H",
+      "location.rate": 0.019203132273663215,
+      "location.rate_confidence": [
+        0.009499787585375761,
+        0.03248095983822232
+      ],
+      "location.rate_median": 0.0181879982070351,
+      "location_confidence": {
+        "D": 0.0014326647564469914,
+        "H": 0.998567335243553
+      },
+      "location_entropy": 0.010813040527866523,
+      "num_date": 2001.5023752212219,
+      "num_date_confidence": [
+        2003.1312693132002,
+        1998.0248735514851
+      ],
+      "posterior": 0.3875624652970572
+    },
+    "NODE_0000077": {
+      "clock_length": 0.807773552063825,
+      "default.rate": 0.0022322331900276535,
+      "default.rate_confidence": [
+        8.573773026458274e-05,
+        0.006372887907882321
+      ],
+      "default.rate_median": 0.001464630483287294,
+      "location": "H",
+      "location.rate": 0.01917474258219266,
+      "location.rate_confidence": [
+        0.009074048377185213,
+        0.03213320158780054
+      ],
+      "location.rate_median": 0.018345057984790688,
+      "location_confidence": {
+        "H": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2002.3101487732858,
+      "num_date_confidence": [
+        2003.5873868702076,
+        2000.0719567630376
+      ],
+      "posterior": 0.498611882287618
+    },
+    "NODE_0000078": {
+      "clock_length": 0.9701266486754392,
+      "default.rate": 0.004702797855479302,
+      "default.rate_confidence": [
+        0.00036501781278066014,
+        0.012796145505809917
+      ],
+      "default.rate_median": 0.0033021502761109594,
+      "location": "H",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "H": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.2802754219613,
+      "num_date_confidence": [
+        2003.9011561441162,
+        2002.1748162229248
+      ],
+      "posterior": 1.0
+    },
+    "NODE_0000079": {
+      "clock_length": 0.4353410243583262,
+      "default.rate": 0.003050486562716063,
+      "default.rate_confidence": [
+        5.08697004619077e-05,
+        0.009539669236381604
+      ],
+      "default.rate_median": 0.0018875223785847727,
+      "location": "H",
+      "location.rate": 0.019248924010703005,
+      "location.rate_confidence": [
+        0.009074048377185213,
+        0.03220033571027847
+      ],
+      "location.rate_median": 0.018422222015997823,
+      "location_confidence": {
+        "H": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.7156164463195,
+      "num_date_confidence": [
+        2003.9892629016751,
+        2003.10344725699
+      ],
+      "posterior": 0.779011660188784
+    },
+    "NODE_0000080": {
+      "clock_length": 6.162838131858351,
+      "default.rate": 0.0007844226623906199,
+      "default.rate_confidence": [
+        1.7984714632954598e-05,
+        0.0022436286500624606
+      ],
+      "default.rate_median": 0.00039964505473193265,
+      "location": "H",
+      "location.rate": 0.01950369151318743,
+      "location.rate_confidence": [
+        0.009669746341887988,
+        0.03220033571027847
+      ],
+      "location.rate_median": 0.018815685571709755,
+      "location_confidence": {
+        "D": 0.2511737089201878,
+        "H": 0.7488262910798122
+      },
+      "location_entropy": 0.5636209257036676,
+      "num_date": 1999.9959730075745,
+      "num_date_confidence": [
+        2002.9890930571912,
+        1992.8147725857712
+      ],
+      "posterior": 0.23653525818989452
+    },
+    "NODE_0000081": {
+      "clock_length": 1.51053538766514,
+      "default.rate": 0.0012765525378591117,
+      "default.rate_confidence": [
+        1.7984714632954598e-05,
+        0.003259139282072308
+      ],
+      "default.rate_median": 0.0008087994566038289,
+      "location": "H",
+      "location.rate": 0.01960520654660637,
+      "location.rate_confidence": [
+        0.010168375854764104,
+        0.032921047217951215
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 0.13168724279835392,
+        "H": 0.8683127572016461
+      },
+      "location_entropy": 0.38958154580293,
+      "num_date": 2001.5065083952397,
+      "num_date_confidence": [
+        2003.5104438957806,
+        1997.3237129384622
+      ],
+      "posterior": 0.13492504164353136
+    },
+    "NODE_0000082": {
+      "clock_length": 1.699609336355259,
+      "default.rate": 0.0029054735120682793,
+      "default.rate_confidence": [
+        9.719670945539181e-05,
+        0.008464324687618771
+      ],
+      "default.rate_median": 0.0019995418857125034,
+      "location": "H",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "H": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.206117731595,
+      "num_date_confidence": [
+        2003.945955997374,
+        2001.755870947243
+      ],
+      "posterior": 1.0
+    },
+    "NODE_0000083": {
+      "clock_length": 0.6365059551696319,
+      "default.rate": 0.0026740410084901346,
+      "default.rate_confidence": [
+        0.00010146476793492836,
+        0.008261185242669116
+      ],
+      "default.rate_median": 0.0017127703660934814,
+      "location": "H",
+      "location.rate": 0.01932108797705025,
+      "location.rate_confidence": [
+        0.009071043193789399,
+        0.032206261891788567
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "H": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.8426236867645,
+      "num_date_confidence": [
+        2003.9994010897462,
+        2003.2395580931607
+      ],
+      "posterior": 0.9700166574125486
+    },
+    "NODE_0000084": {
+      "clock_length": 3.303409255639629,
+      "default.rate": 0.0008802468435537643,
+      "default.rate_confidence": [
+        3.849295325806747e-05,
+        0.002458751118735734
+      ],
+      "default.rate_median": 0.0006095294645771712,
+      "location": "D",
+      "location.rate": 0.019465025623445598,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.018702874606262878,
+      "location_confidence": {
+        "B": 0.0006648936170212766,
+        "D": 0.7805851063829787,
+        "F": 0.020611702127659573,
+        "H": 0.18351063829787234,
+        "I": 0.014627659574468085
+      },
+      "location_entropy": 0.6511753226890292,
+      "num_date": 2004.8099176508792,
+      "num_date_confidence": [
+        2008.2920997004771,
+        2001.2471528762528
+      ],
+      "posterior": 0.8350916157690172
+    },
+    "NODE_0000085": {
+      "clock_length": 2.296554253498641,
+      "default.rate": 0.0013230678472366227,
+      "default.rate_confidence": [
+        6.638382646711636e-05,
+        0.003713464017631621
+      ],
+      "default.rate_median": 0.0009411161533104977,
+      "location": "D",
+      "location.rate": 0.019357289443094818,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.03239552327526126
+      ],
+      "location.rate_median": 0.018583610693972193,
+      "location_confidence": {
+        "D": 0.9909208819714657,
+        "F": 0.0006485084306095979,
+        "H": 0.008430609597924773
+      },
+      "location_entropy": 0.05406200298732164,
+      "num_date": 2007.106471904378,
+      "num_date_confidence": [
+        2009.2846537106236,
+        2003.8246297025441
+      ],
+      "posterior": 0.8561910049972238
+    },
+    "NODE_0000086": {
+      "clock_length": 2.5460881879105024,
+      "default.rate": 0.001689342720429462,
+      "default.rate_confidence": [
+        5.246918668045327e-05,
+        0.0049788136355996175
+      ],
+      "default.rate_median": 0.0011403025823381395,
+      "location": "H",
+      "location.rate": 0.019263816823129887,
+      "location.rate_confidence": [
+        0.009071043193789399,
+        0.03147439789489826
+      ],
+      "location.rate_median": 0.01842360343135909,
+      "location_confidence": {
+        "D": 0.004987531172069825,
+        "F": 0.0012468827930174563,
+        "H": 0.9937655860349127
+      },
+      "location_entropy": 0.0409909561447178,
+      "num_date": 2002.542061195485,
+      "num_date_confidence": [
+        2003.7031654395385,
+        1999.3561098267614
+      ],
+      "posterior": 0.4453081621321488
+    },
+    "NODE_0000087": {
+      "clock_length": 3.3708287655477456,
+      "default.rate": 0.0019126418587816281,
+      "default.rate_confidence": [
+        4.665013357436897e-05,
+        0.005718004955241537
+      ],
+      "default.rate_median": 0.0012200953804394274,
+      "location": "D",
+      "location.rate": 0.01928959119125602,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.03206569560286967
+      ],
+      "location.rate_median": 0.018553581963873716,
+      "location_confidence": {
+        "D": 0.9982014388489209,
+        "F": 0.0017985611510791368
+      },
+      "location_entropy": 0.013165230868439999,
+      "num_date": 1987.8165473322133,
+      "num_date_confidence": [
+        1988.9998249117507,
+        1983.397206821049
+      ],
+      "posterior": 0.926152137701277
+    },
+    "NODE_0000088": {
+      "clock_length": 0.39988806663252774,
+      "default.rate": 0.0016695325471888078,
+      "default.rate_confidence": [
+        4.834618998474433e-05,
+        0.004326530933096334
+      ],
+      "default.rate_median": 0.0011703784979185097,
+      "location": "D",
+      "location.rate": 0.018569503361490988,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.03213320158780054
+      ],
+      "location.rate_median": 0.01765165006315558,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 1988.2164353988458,
+      "num_date_confidence": [
+        1988.9995025967867,
+        1985.253812154055
+      ],
+      "posterior": 0.3014991671293726
+    },
+    "NODE_0000089": {
+      "clock_length": 1.7590901396677516,
+      "default.rate": 0.000943716522930457,
+      "default.rate_confidence": [
+        3.8080022256403156e-05,
+        0.0027814407196889617
+      ],
+      "default.rate_median": 0.0006350674834448358,
+      "location": "D",
+      "location.rate": 0.018401790192158072,
+      "location.rate_confidence": [
+        0.00799809478732868,
+        0.030029330304610073
+      ],
+      "location.rate_median": 0.01762027854637941,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 1989.9755255385135,
+      "num_date_confidence": [
+        1990.9931998248016,
+        1987.7878342610577
+      ],
+      "posterior": 0.25541365907828983
+    },
+    "NODE_0000090": {
+      "clock_length": 12.990266014582534,
+      "default.rate": 0.0016288342426801973,
+      "default.rate_confidence": [
+        6.95851525781216e-05,
+        0.00557613595612837
+      ],
+      "default.rate_median": 0.0008393862659059352,
+      "location": "D",
+      "location.rate": 0.01932663397079624,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.01855693461365551,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2002.965791553096,
+      "num_date_confidence": [
+        2003.8862456152656,
+        2000.965381985536
+      ],
+      "posterior": 1.0
+    },
+    "NODE_0000091": {
+      "clock_length": 0.4561855560029908,
+      "default.rate": 0.0015771367405634103,
+      "default.rate_confidence": [
+        8.764294695569241e-05,
+        0.0047190145987199535
+      ],
+      "default.rate_median": 0.0010348724307132826,
+      "location": "D",
+      "location.rate": 0.019199229011259027,
+      "location.rate_confidence": [
+        0.00850282108627947,
+        0.030745345425367582
+      ],
+      "location.rate_median": 0.018587751871900232,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.421977109099,
+      "num_date_confidence": [
+        2003.9360132479835,
+        2002.4032535712959
+      ],
+      "posterior": 0.18767351471404775
+    },
+    "NODE_0000092": {
+      "clock_length": 0.41195701262864937,
+      "default.rate": 0.0027028021563342795,
+      "default.rate_confidence": [
+        0.00012620489076802438,
+        0.008264550409716574
+      ],
+      "default.rate_median": 0.0017020016098849206,
+      "location": "D",
+      "location.rate": 0.019330678843311595,
+      "location.rate_confidence": [
+        0.00905378721634117,
+        0.032170600451733276
+      ],
+      "location.rate_median": 0.0185769308112198,
+      "location_confidence": {
+        "D": 1.0
+      },
+      "location_entropy": -1.000000082690371e-10,
+      "num_date": 2003.8339341217277,
+      "num_date_confidence": [
+        2003.9998684487298,
+        2003.1007825584718
+      ],
+      "posterior": 0.9988895058300944
+    }
+  }
+}
